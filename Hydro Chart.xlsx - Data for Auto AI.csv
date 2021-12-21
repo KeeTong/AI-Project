@@ -1,0 +1,619 @@
+Hydroponic,Common_Name,Plant_Type,Suitable_Site_Conditions,Mature_Size_Min,Mature_Size_Max,Bloom_Time,Bloom_Spring,Bloom_Summer,Bloom_Autumn,Bloom_Winter,Flower_Color,Climate_Appropriate_Plants,Plant_Communities,Soil_Type,Water_Needs,Habitat_Value,Appropriate_Location,Additional_Characteristices_Notes
+Yes,Capsicum,Vegetable,Full Sun,60,80,Summer,,Yes,,,,Other,Garden,Loam,Moderate,Green,Garden,
+Yes,Tomato,Vegetable,Full Sun,60,100,summer,,Yes,,,,Other,Garden,Loam,Moderate,Green,Garden,
+Yes,Ferns,Flower,Partial Sun,6,30,Spring,Yes,,,,Mixed,Other,Garden,Loam,Low,Pollinator,Garden,
+Yes,Bean (Common),Vegetable,Full Sun,50,80,Summer,,Yes,,,,Other,Garden,Loam,Low,Green,Garden,
+Yes,Hot Peppers,Vegetable,Full Sun,40,60,summer,,Yes,,,,Other,Garden,Loam,Low,Green,Garden,
+Yes,Peppers,Vegetable,Full Sun,40,60,summer,,Yes,,,,Other,Garden,Loam,Moderate,Green,Garden,
+Yes,Pea,Vegetable,Partial Sun,40,45,Spring,Yes,,,,,Other,Garden,Loam,Moderate,Green,Garden,
+Yes,Anthurium,Flower,Full Sun,30,80,Summer,,Yes,,,Mixed,Other,Garden,Loam,Moderate,Pollinator,Garden,
+Yes,Aster,Flower,Partial Sun,30,80,Spring,Yes,,,,Mixed,Other,Garden,Loam,Moderate,Pollinator,Garden,
+Yes,Lettuce,Vegetable,Partial Shade,30,40,Spring,Yes,,,,,Other,Garden,Loam,Moderate,Green,Garden,
+Yes,Spinach,Vegetable,Partial Shade,25,30,Spring,Yes,,,,,Other,Garden,Loam,Moderate,Green,Garden,
+Yes,Carnation,Flower,Full Sun,20,40,Summer,,Yes,,,Mixed,Other,Garden,Loam,Moderate,Pollinator,Garden,
+Yes,Dahlia,Flower,Partial Sun,20,40,Spring,Yes,,,,Mixed,Other,Garden,Loam,Moderate,Pollinator,Garden,
+Yes,Gerbera,Flower,Full Sun,20,40,Summer,,Yes,,,Mixed,Other,Garden,Loam,Moderate,Pollinator,Garden,
+Yes,Roses,Flower,Full Sun,20,40,Summer,,Yes,,,Mixed,Other,Garden,Loam,Moderate,Pollinator,Garden,
+Yes,Blueberry,Fruit,Full Sun,150,180,Summer,,Yes,,,white,Other,Garden,Loam,Moderate,Fruit,Garden,
+Yes,Strawberries,Fruit,Full Sun,15,20,Summer,,Yes,,,pink,Other,Garden,Loam,Moderate,Fruit,Garden,
+Yes,Cucumber,Vegetable,Partial Sun,15,20,Spring,Yes,,,,,Other,Garden,Loam,Low,Green,Garden,
+Yes,Basil,Herbs,Partial Shade,10,20,Spring,Yes,,,,,Other,Garden,Loam,Moderate,Green,Garden,
+Yes,Mint,Herbs,Partial Shade,10,20,Spring,Yes,,,,purple,Other,Garden,Loam,Moderate,Green,Garden,
+Yes,Rosemary,Herbs,Partial Shade,10,20,Spring,Yes,,,,,Other,Garden,Loam,Moderate,Green,Garden,
+Yes,Bok Choy,Vegetable,Shade,30,30,Spring,Yes,,,,,Other,Garden,Loam,Moderate,Green,Garden,
+No,Purple-Leaf Acacia,Tree (evergreen),Full Sun,700 , 900,Spring,Yes,,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Fast grower, high maintenance."
+No,Bigleaf Maple,Tree (deciduous),Partial Sun,700 , 900,Spring,Yes,,,,Orange;Red;Yellow,CA Native,Riparian,Clay;Loam;Sand;Rock,Moderate,Pollinator;Nesting,Garden,Provides shelter for wildlife
+No,Box Elder,Tree (deciduous),Partial Sun,700 , 900,Spring,Yes,,,,Pink,SF Native,Chaparral;Grassland/prairie;Riparian;Woodland,Clay;Loam;Sand;Rock,Moderate,Buds/greens;Nesting,Garden,Withstands wind.
+No,Red Maple,Tree (deciduous),Partial Sun,700 , 900,Spring,Yes,,,,Red,Exotic,,Clay;Loam;Sand,Moderate,,Sidewalk,"Prefers heat, wind protection"
+No,Red Horsechestnut,Tree (deciduous),Partial Sun,700 , 900,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,gets windburn easily in summer even in protected sites.
+No,Peppermint Tree,Tree (evergreen),Full Sun,700 , 900,Summer,,Yes,,,White,Exotic,,Clay;Loam,None,,Sidewalk,Fast grower that requires extra tree care.
+No,After Dark Peppermint Tree,Tree (evergreen),Full Sun,700 , 900,,,,,,,Exotic,,Clay;Loam;Sand;Rock,None,,Sidewalk,‘After Dark’ is a fast grower that requires extra tree care.
+No,White Alder,Tree (deciduous),Full Sun,700 , 900,Fall,,,Yes,,Yellow,CA Native,Riparian,Clay;Loam;Sand;Rock,Moderate,Pollinator,Garden,Streamside plant.
+No,Madrone,Tree (evergreen),Partial Sun,700 , 900,Spring,Yes,,,,White,SF Native,Woodland,Clay;Loam;Rock,Low,Cover;Fruit;Pollinator;Nesting,Garden,Peeling red bark.
+No,Dutchman's Pipevine,Vine,Partial Sun,700 , 900,Spring;Winter,Yes,,,Yes,Burgundy,SF Native,Coastal scrub;Woodland,Clay;Loam,Low,Buds/greens;Cover;Pollinator,Garden,Slow grower. Attracts Pipe Vine Swallowtail (Battus philenor).
+No,Guadalupe Palm,Tree (evergreen),Full Sun,700 , 900,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,Very slow growing in San Francisco.
+No,Weeping Bottlebrush,Tree (evergreen),Partial Sun,700 , 900,Spring;Summer,Yes,Yes,,,red,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,Has sticky flowers.
+No,Chinese Hackberry,Tree (deciduous),Full Sun,700 , 900,Spring,Yes,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Prefers heat, wind protection, uneven performer."
+No,Western Virgin's Bower,Perennial,Partial Sun,700 , 900,Summer,,Yes,,,White,CA Native,Wetland,Loam;Sand,Moderate,Cover;Pollinator,Garden;Roof,
+No,Red Flowering Gum,Tree (evergreen),Full Sun,700 , 900,Summer,,Yes,,,Red,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Needs a very large basin, wide sidewalk."
+No,Queen Palm,Tree (evergreen),Full Sun,700 , 900,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,"Needs heat, wind protection."
+No,Littleleaf Linden,Tree (deciduous),Full Sun,700 , 900,Spring,Yes,,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,Slow grower.
+No,Drake/Sempervirens Chinese Elm,Tree (deciduous),Full Sun,700 , 900,,,,,,,Exotic,Exotic,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Fast grower, which initially requires higher maintenance."
+No,California Wild Grape,Vine,Partial Sun,700 , 900,Spring,Yes,,,,Red,CA Native,Riparian;Woodland,Clay;Loam;Sand;Rock,Low,Cover;Fruit,Garden;Roof,Plant east of Twin Peaks – needs warmth. Attracts Cedar Waxwing and Western Fence Lizard.
+No,Mexican Fan Palm,Tree (evergreen),Full Sun,700 , 900,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,"Prefers some warmth, full sun"
+No,Carrot Wood,Tree (evergreen),Partial Sun,700 , 900,Summer,,Yes,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Uneven performer, needs heat, wind protection."
+No,Silver Dollar Gum,Tree (evergreen),Full Sun,700 , 900,Summer;Fall,,Yes,Yes,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Needs a large basin, fast grower, high maintenance."
+No,Oregon Ash,Tree (deciduous),Partial Sun,700 , 900,Spring,Yes,,,,Green,CA Native,Riparian;Woodland,Clay;Loam;Sand,Low,Fruit;Nesting,Garden,Attracts Pale Swallowtail (Papilio eurymedon) and Western Tiger Swallowtail (Papilio rutulus).
+No,Australian Willow,Tree (evergreen),Full Sun,700 , 900,Spring,Yes,,,,White,Exotic,,Loam;Sand,Moderate,,Sidewalk,"Prefers heat, wind protection."
+No,Maidenhair Tree,Tree (deciduous),Full Sun,700 , 900,Spring,Yes,,,,,Exotic,,Clay;Loam;Sand,Low,,Sidewalk,"Slow grower. 'Princeton Sentry', 'Saratoga' another variety."
+No,Sweetshade,Tree (evergreen),Partial Sun,700 , 900,Summer,,Yes,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Uneven performer, prefers heat, wind protection, good drainage."
+No,Jacaranda,Tree (evergreen),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,"Blue,Lavender",Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Uneven performer, prefers heat, wind protection, good drainage."
+No,Goldenrain Tree,Tree (deciduous),Full Sun,700 , 900,Summer,,Yes,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Uneven performer, prefers heat, wind protection."
+No,Primrose Tree,Tree (evergreen),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,Pink,Exotic,,Clay;Loam;Sand,Low,,Sidewalk,Does well in windy areas.
+No,American Sweetgum,Tree (deciduous),Partial Sun,700 , 900,Spring,Yes,,,,Yellow,Exotic,,Clay;Loam;Sand,Moderate,,Sidewalk,Needs a very large basin for canopy and roots
+No,Tulip Tree,Tree (deciduous),Full Sun,700 , 900,Spring,Yes,,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,Uneven performer.
+No,Brisbane Box,Tree (evergreen),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,
+No,Passion Vine,Vine,Partial Sun,700 , 900,Spring;summer,Yes,Yes,,,White;Purple,Exotic,,Sand;Loam,None,Pollinator;Cover;Nesting,Sidewalk;Garden,
+No,Catalina Ironwood,Tree (evergreen),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,White,CA Native,,Clay;Loam,Low,,Sidewalk,"Prefers heat, wind protection."
+No,Majestic Beauty/Samuel Sommer Southern Magnolia,Tree (evergreen),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,
+No,St. Mary Magnolia,Tree (evergreen),Full Sun,700 , 900,Summer;Fall,,Yes,Yes,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,
+No,Cajeput Tree,Tree (evergreen),Full Sun,700 , 900,Summer;Fall,,Yes,Yes,,White,Exotic,,Clay;Loam;Sand,Low,,Sidewalk,"Grows fast, dense, irregular form, prefers wind protection."
+No,Prickly Melaleuca,Tree (evergreen),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,White,Exotic,,Clay;Loam;Sand,Low,,Sidewalk,"Can root poorly, and prickly leaves."
+No,New Zealand Christmas tree,Tree (evergreen),Full Sun,700 , 900,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Red,Exotic,,Loam;Sand,Low,Fruit;Pollinator,Sidewalk,Endures wind well and is a common SF street tree.
+No,Olive Tree,Tree (evergreen),Full Sun,700 , 900,,,,,,,Exotic,,Clay;Loam;Sand;Rock,None,,Sidewalk,"Needs a very large basin, prefers wind protection."
+No,Date Palm,Tree (evergreen),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,Needs a large basin and wide sidewalk.
+No,Shore Pine,Tree (evergreen),Full Sun,700 , 900,Spring,Yes,,,,Brown,CA Native,Riparian,Loam,Moderate,,Garden,
+No,Bishop Pine,Tree (evergreen),Partial Sun,700 , 900,Spring,Yes,,,,Orange,CA Native,Woodland,Loam,Moderate,Buds/greens,Garden,
+No,Keith Davey Chinese Pistache,Tree (deciduous),Partial Sun,700 , 900,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Prefers heat, wind protection."
+No,Victorian Box,Tree (evergreen),Partial Sun,700 , 900,Spring;Summer,Yes,Yes,,,White,Exotic,,Clay;Loam;Sand;Rock,None,,Sidewalk,"Can self-sow, take care when planting near natural areas."
+No,London Plane Tree,Tree (deciduous),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Prefers wind protection, Susceptible to anthracnose and powdery mildew."
+No,Fern Pine,Tree (evergreen),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Better as a shrub, gets pests."
+No,Lombardy Poplar,Tree (deciduous),Full Sun,700 , 900,Winter,,,,Yes,White,Exotic,NA***,Clay;Loam;Sand,Moderate,Buds/greens,Garden,Attracts Lorquin's Admiral (Limenitis lorquini) butterfly.
+No,Douglas Fir,Tree (evergreen),Partial Sun,700 , 900,Spring,Yes,,,,Red,CA Native,Woodland,Clay;Loam;Sand;Rock,Low,Nesting,Garden,Grow very large.
+No,New Bradford Pear,Tree (deciduous),Full Sun,700 , 900,Spring,Yes,,,,White,Exotic,,Clay;Sand,Low,,Sidewalk;Garden,"Needs wind protection, susceptible to fireblight."
+No,Coast Live Oak,Tree (evergreen),Partial Sun,700 , 900,Spring;Winter,Yes,,,Yes,Yellow,SF Native,Woodland,Clay;Loam;Sand;Rock,None,Nesting;Cover,Sidewalk;Garden,"Recommended especially for large spaces. Attracts California Sister (Adelpha bredowii californica), Propertius Dusky-Wing (Erynnis propertius), Mournful Dusky-Wing (Erynnis tristis), Chestnut-Backed Chickadee, Scrub Jays"
+No,Canyon Live Oak,Tree (evergreen),Partial Sun,700 , 900,Spring,Yes,,,,Yellow,SF Native,Woodland,Clay;Loam,None,Nesting;Cover,Garden,"Attracts California Sister (Adelpha bredowii californica), Propertius Dusky-Wing (Erynnis propertius), Mournful Dusky-Wing (Erynnis tristis)."
+No,Cork Oak,Tree (evergreen),Full Sun,700 , 900,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,"Needs a large basin, wide sidewalk."
+No,Yellow Willow,Tree (deciduous),Full Sun,700 , 900,Spring,Yes,,,,Yellow,SF Native,Riparian;Wetland;Woodland,Clay;Loam;Sand,Moderate,Cover;Buds/greens;Cover;Pollinator,Garden,Atrracts Mourning Cloak (Nymphalis antiopa) and Western Tiger Swallowtail (Papilio rutulus).
+No,Arroyo Willow,Tree (deciduous),Partial Sun,700 , 900,Spring;Winter,Yes,,,Yes,Yellow,SF Native,Coastal scrub;Riparian;Wetland;Woodland,Clay;Loam;Sand,Low,Buds/greens;Pollinator,Garden,Atrracts Mourning Cloak (Nymphalis antiopa) and Western Tiger Swallowtail (Papilio rutulus).
+No,Redwood,Tree (evergreen),Partial Sun,700 , 900,Summer;Fall,,Yes,Yes,,Yellow,CA Native,Woodland,Clay;Loam,Moderate,Nesting,Garden,
+No,California black walnut,Tree (deciduous),Full Sun,700 , 900,Spring,Yes,,,,,CA Native,Riparian;Woodland,Clay;Loam,Low,Cover;Nesting,Garden,
+No,Valley oak,Tree (deciduous),Full Sun,700 , 900,Spring;Winter,Yes,,,Yes,,CA Native,Riparian;Woodland,Clay;Loam,Low,Cover,Garden,
+No,Red willow,Tree (deciduous),Partial Sun,700 , 900,Spring,Yes,,,,,CA Native,Riparian;Wetland,Clay;Loam,Moderate,Cover,Garden,
+No,California bay laurel,Tree (evergreen),Partial Sun,700 , 900,Spring,Yes,,,,Yellow,SF Native,Chaparral;Woodland,Clay;Loam,None,Fruit;Cover,Garden,Attracts small mammals
+No,Potato Vine,Vine,Partial Sun,700 , 900,Summer;Fall,,Yes,Yes,,White,Exotic,,Sand;Loam;Clay,None,Cover;Nesting,Sidewalk;Garden,
+No,pecan,Tree (deciduous),Full Sun,700 , 900,Spring,Yes,,,,Yellow,Exotic,,Loam;Sand,Moderate,Fruit;Cover;Nesting,Garden,
+No,Weeping bottle brush,Tree (evergreen),Full Sun,700 , 900,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Red,Exotic,,Clay;Loam;Sand,Low,Cover;Nesting,Garden,
+No,red-cap gum,Tree (evergreen),Full Sun,700 , 900,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,red;yellow,Exotic,,Clay;Loam;Sand,Low,Cover;Nesting,Garden,
+No,lemon-scented gum,Tree (evergreen),Full Sun,700 , 900,Summer;Fall;Winter,,Yes,Yes,Yes,,Exotic,,Clay;Loam;Sand,Low,Cover;Nesting,Garden,
+No,common hackberry,Tree (deciduous),Partial Sun,700 , 900,Spring;Winter,Yes,,,Yes,Green,CA Native,,Loam,Low,Cover;Nesting,Garden,
+No,river she-oak,Tree (deciduous),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,Brown,Exotic,,Sand,Low,Cover;Nesting,Garden,
+No,birch,Tree (deciduous),Full Sun,700 , 900,Spring,Yes,,,,,CA Native,,Clay;Loam,Moderate,Cover;Nesting,Garden,
+No,Coastal Banksia,Tree (evergreen),Full Sun,700 , 900,Spring,Yes,,,,Yellow,Exotic,,clay;Sand,Moderate,Cover;Nesting,Sidewalk,
+No,"Kurrajong, Bottle Tree",Tree (evergreen),Full Sun,700 , 900,Summer,,Yes,,,White;Yellow,Exotic,,clay;Sand,Moderate,Cover;Nesting,Sidewalk,
+No,Gold Medallion Tree,Tree (evergreen),Full Sun,700 , 900,Summer,,Yes,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,Cover;Nesting,Sidewalk,
+No,"Lemonwood, Tarata",Shrub (evergreen),Partial Sun,700 , 900,Spring,Yes,,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,Cover;Nesting,Sidewalk,
+No,Diamond Leaf Pittosporum,Tree (evergreen),Partial Sun,700 , 900,Spring;Summer,Yes,Yes,,,White,Exotic,,Clay;Loam;Sand;Rock,Moderate,Cover;Nesting,Sidewalk,
+No,London Plane Tree,Tree (deciduous),Full Sun,700 , 900,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Moderate,Cover;Nesting,Sidewalk,
+No,Hungarian oak,Tree (deciduous),Full Sun,700 , 900,Spring,Yes,,,,,Exotic,,Clay,Low,Cover;Nesting,Sidewalk,
+No,Holly oak,Tree (evergreen),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,,Exotic,,Sand;Loam,Low,Cover;Nesting;Pollinator,Sidewalk,
+No,Willow Oak,Tree (deciduous),Full Sun,700 , 900,Spring;Summer,Yes,Yes,,,Yellow,Exotic,,Clay;Loam,Moderate,Cover;Nesting,Sidewalk,
+No,Island Live Oak,Tree (evergreen),Partial Sun,700 , 900,Spring;Summer,Yes,Yes,,,,CA Native,,Sand;Loam,Low,Cover;Nesting;Pollinator,Sidewalk,
+No,Virginia Live Oak,Tree (evergreen),Full Sun,700 , 900,Spring,Yes,,,,,Exotic,,Clay;Loam;Sand,Low,Cover;Nesting,Sidewalk,
+No,Soapbark Tree,Tree (evergreen),Full Sun,700 , 900,Summer,,Yes,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,Cover;Buds/greens;Nesting,Sidewalk,
+No,Accolade Elm,Tree (deciduous),Full Sun,700 , 900,Spring,Yes,,,,Green,Exotic,,Clay;Loam;Sand,Low,Cover;Nesting;Buds/greens;Pollinator,Sidewalk,
+No,Frontier Hybrid Elm,Tree (deciduous),Full Sun,700 , 900,Fall,,,Yes,,,Exotic,,Clay;Loam;Sand;Rock,Moderate,Cover;Nesting;Buds/greens,Sidewalk,
+No,Trident Maple,Tree (deciduous),Partial Sun,400,750,Spring,Yes,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Prefers heat, wind protection."
+No,California Buckeye,Tree (deciduous),Partial Sun,400,750,Summer,,Yes,,,White;Pink,SF Native,Riparian;Woodland,Clay;Loam;Sand;Rock,None,Pollinator,Garden,Recommended where there is space (ie: Palou Phelps park). Attracts Western Tiger Swallowtail (Papilio rutulus) butterfly.
+No,Marina Strawberry Tree,Tree (evergreen),Full Sun,400,750,Fall;Winter,,,Yes,Yes,Pink,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,Fruit drop can range from low volume to significant.
+No,Lemon Bottlebrush,Tree (evergreen),Full Sun,400,750,Spring;Summer,Yes,Yes,,,Red,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Sidewalk,"Grows low, and wide canopy and needs a wide sidewalk, sticky flowers."
+No,Ray Hartman Ceanothus,Tree (evergreen),Full Sun,400,750,Spring,Yes,,,,Blue,CA Native,,Sand;Loam,None,,Sidewalk,
+No,Redbud,Tree (deciduous),Partial Sun,400,750,Spring,Yes,,,,Pink,CA Native,Chaparral;Woodland,Clay;Loam;Sand;Rock,None,Pollinator,Garden,
+No,Cabbage Palm,Tree (evergreen),Partial Sun,400,750,Summer,,Yes,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Needs very large basin, take care when planting near natural areas."
+No,Washington Hawthorn,Tree (deciduous),Partial Sun,400,750,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Subject to pests, has thorns, may be susceptible to fireblight."
+No,Lavallée's hawthorn,Tree (deciduous),Full Sun,400,750,Spring;Summer,Yes,Yes,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,
+No,Water Gum,Tree (evergreen),Full Sun,400,750,Spring,Yes,,,,Yellow,Exotic,,Clay;Loam;Sand,None,,Sidewalk;Garden,
+No,Elegant Brisbane Box,Tree (evergreen),Full Sun,400,750,Spring;Summer,Yes,Yes,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,"Foremerly know as Tristania laurina ‘Elegant’; grows slowly, irregular form, mod-high maintenance."
+No,Japanese Blueberry Tree,Tree (evergreen),Full Sun,400,750,Summer,,Yes,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Slow growing, keep out of strong/ prevailing wind, flowers and may not produce fruit at maturity here ."
+No,Bronze Loquat,Tree (evergreen),Partial Sun,400,750,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Needs wind protection, does not perform well in sandy soils."
+No,Coast Silktassel,Shrub (evergreen),Partial Sun,400,750,Winter,,,,Yes,White,SF Native,Coastal scrub;Woodland,Clay;Loam,Low,Fruit;Cover,Sidewalk,"Beautiful plant that gets large, is wind pollinated, and could be trained into a single stem tree."
+No,Banksia,Shrub (evergreen),Full Sun,400,750,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator;Cover;Nesting,Garden,
+No,Sweet Bay,Tree (evergreen),Partial Sun,400,750,Spring,Yes,,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Uneven performer, prefers heat, wind protection, gets pests."
+No,Australian Tea Tree,Tree (evergreen),Full Sun,400,750,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Poor rooter, may need long-term or permanent staking."
+No,Sweet Michelia,Tree (evergreen),Partial Sun,400,750,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Formerly Michelia doltsopa; uneven performer, grows very slowly, prefers heat, wind protection."
+No,Golden Champaca,Tree (evergreen),Partial Sun,400,750,Spring;Summer,Yes,Yes,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,"Formerly Michelia champaca; needs wind protection, wide sidewalk, gets powdery mildew and very slow grower."
+No,Little Gem Magnolia,Tree (evergreen),Full Sun,400,750,Summer;Fall,,Yes,Yes,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,
+No,Wild Cucumber/Manroot,Vine,Partial Sun,400,750,Spring,Yes,,,,White,SF Native,Coastal scrub;Dunes;Woodland,Clay;Loam;Sand,None,Fruit,Garden,Attracts Scrub Jays.
+No,Coast Manroot,Vine,Partial Shade,400,750,Spring,Yes,,,,White,SF Native,Woodland,Clay;Loam;Sand,Low,Fruit,Garden,Only one specimen in SF in John McLaren Park.
+No,"California Wax Myrtle, Pacific Bayberry",Shrub (evergreen),Partial Sun,400,750,Summer,,Yes,,,Yellow,SF Native,Coastal scrub;Riparian;Woodland;Wetland,Clay;Loam;Sand,Moderate,Cover;Fruit;Pollinator;Nesting,Garden,Endures wind well. May grow as a single trunk standard tree.
+No,Seaside Pittosporum,Tree (evergreen),Partial Sun,400,750,Spring,Yes,,,,Red,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,Tolerates wind and fog. Can leak sap from trunk.
+No,Pipestems; Chaparral clematis,Vine,Partial Sun,400,750,Spring,Yes,,,,White,CA Native,Riparian;Woodland,Clay;Loam,Low,Cover,Garden,
+No,Krauter Vesuvius Plum,Tree (deciduous),Full Sun,400,750,Spring,Yes,,,,Purple,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,"Wind protection, susceptible to shot hole fungus."
+No,Bitter cherry,Tree (deciduous),Partial Sun,400,750,Spring,Yes,,,,White,SF Native,Woodland;Coastal scrub;Chaparral,Loam;Clay,Low,Fruit;Pollinator,Garden,"Too cool of a climate to set fruit, but spreads vegetatively. Get from SF sources. Attracts Lorquin's Admiral (Limenitis lorquini), Pale Swallowtail (Papilio eurymedon), Western Tiger Swallowtail (Papilio rutulus), Red Admiral (Vanessa atalanta)."
+No,Holly Leaf Cherry/Islay Cherry,Tree (evergreen),Partial Sun,400,750,Spring;Winter,Yes,,,Yes,White,SF Native,Chaparral;Woodland,Clay;Loam,None,Cover;Buds/greens;Fruit;Pollinator,Garden,"Attracts Lorquin's Admiral (Limenitis lorquini), Pale Swallowtail (Papilio eurymedon), Western Tiger Swallowtail (Papilio rutulus), Cedar Waxwing, Western Tiger Swallowtail (Papilio rutulus), Anise Swallowtail (Papilio zelicaon)."
+No,Kwansan Japanese Flowering Cherry,Tree (deciduous),Full Sun,400,750,Winter,,,,Yes,Pink;White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk,Prefers wind protection .
+No,Sierra Plum,Tree (deciduous),Partial Sun,400,750,Winter,,,,Yes,White,CA Native,Woodland,Clay;Loam;Sand,Low,Fruit,Garden,"Attracts Lorquin's Admiral (Limenitis lorquini), Pale Swallowtail (Papilio eurymedon), Western Tiger Swallowtail (Papilio rutulus), Red Admiral (Vanessa atalanta)."
+No,Western Chokecherry,Tree (deciduous),Partial Sun,400,750,Spring,Yes,,,,White,SF Native,Riparian;Wetland;Coastal scrub;Woodland,Clay;Loam,Low,Fruit,Garden,"Attracts Lorquin's Admiral (Limenitis lorquini), Pale Swallowtail (Papilio eurymedon), Western Tiger Swallowtail (Papilio rutulus), Red Admiral (Vanessa atalanta)."
+No,Evergreen Pear,Tree (evergreen),Full Sun,400,750,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,"Plant in only warmest areas of city, semi-evergreen, leaf spot/fungus likely to occur and may cause premature leaf drop, does not flower well in our climate, susceptible to fireblight."
+No,Yellow Willow,Shrub (deciduous),Partial Sun,400,750,Spring,Yes,,,,Yellow,CA Native,Wetland;Woodland,Clay;Loam;Sand,Moderate,Pollinator,Garden,"Attracts Dreamy Duskywing (Erynnis icelus), Viceroy (Limenitis archippus), Lorquin's Admiral (Limenitis lorquini), Weidemeyer's Admiral (Limenitis weidemeyerii), Mourning Cloak (Nymphalis antiopa), Western Tiger Swallowtail (Papilio rutulus)."
+No,Blue Elderberry,Shrub (deciduous),Partial Sun,400,750,Spring;Summer,Yes,Yes,,,White,SF Native,Coastal scrub;Riparian;Wetland,Clay;Loam;Sand,Low,Cover;Fruit;Pollinator;Nesting,Garden,"Plant on the east side. Off-white flowers in spring, blue fruits in early summer. Attracts quail, thrashers, grosbeaks, woodpeckers, orioles, house finshes, and orange-crowned warblers."
+No,Red Elderberry,Shrub (deciduous),Partial Shade,400,750,Summer,,Yes,,,White,SF Native,Coastal scrub;Riparian;Woodland,Loam;Clay,Low,Fruit;Pollinator;Cover,Garden,Plant on the west side.
+No,Cape Honeysuckle,Vine,Partial Sun,400,750,Spring;Fall;Winter,Yes,,Yes,Yes,Orange;Red,Exotic,,Sand;Loam,None,Pollinator;Cover;Nesting,Sidewalk;Garden,
+No,"Spider gum, bushy yate",Tree (deciduous),Full Sun,400,750,Spring;Summer,Yes,Yes,,,,Exotic,,Sand;Loam,Low,Cover;Nesting,Sidewalk,
+No,saucer Magnolia,Tree (deciduous),Partial Sun,400,750,Spring;Summer;Fall,Yes,Yes,Yes,,Pink;White,Exotic,,Clay,Moderate,Cover;Nesting,Sidewalk,
+No,Lion's Tail,Shrub (evergreen),Full Sun,400,750,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Orange,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator;Cover;Nesting,Sidewalk;Garden,
+No,Portugal Laurel,Tree (evergreen),Full Sun,400,750,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator;Cover;Nesting,Garden,
+No,Bougainvillea,Vine,Full Sun,400,750,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,Cover;Nesting,Garden,
+No,California Morning Glory,Vine,Full Sun,400,750,Spring;Summer,Yes,Yes,,,,CA Native,coastal scrub;chaparral,Loam;sand,None,Cover;Nesting,Garden,
+No,Mediterranean Fan Palm,Palm,Partial Sun,400,750,,,,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,Cover;Nesting,Garden,
+No,Lady Banks Rose,Vine,Full Sun,400,750,Spring,Yes,,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator;Cover;Nesting,Garden,
+No,Blood Red Trumpet Vine,Vine,Full Sun,400,750,Summer,,Yes,,,Red,Exotic,,Clay;Loam;Sand;Rock,,Cover;Nesting,Sidewalk;Garden,
+No,Yarrow,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,White,SF Native,Coastal scrub;Grassland/prairie;Dunes,Clay;Loam;Sand;Rock,None,Buds/greens;Pollinator,Garden;Sidewalk;Roof,"Recommended. Travels by runners, self sowing, and can go anywhere."
+No,Deerweed,Perennial,Full Sun,30,90,Spring;Summer,Yes,Yes,,,Red;Yellow,SF Native,Coastal scrub;Dunes,Clay;Loam;Sand;Rock,None,Buds/greens;Cover;Fruit;Pollinator,Garden;Roof,"Practical and attractive plant. Attracts Black-tailed jackrabbit, Grey Hairstreak (Strymon melinus), and Green Hairstreak (Callophrys viridis) butterflies. Grows in disturbed soil."
+No,Coast Fiddleneck,Perennial,Full Sun,30,90,Spring,Yes,,,,Yellow,SF Native,Coastal scrub;Dunes,Clay;Loam;Sand;Rock,None,Buds/greens;Pollinator,Garden;Roof,Easy to grow from seed. Attracts Painted Lady (Vanessa cardui) butterfly.
+No,Pearly Everlasting,Perennial,Full Sun,30,90,Summer,,Yes,,,White;Yellow,SF Native,Coastal scrub;Dunes;Woodland,Clay;Loam;Sand;Rock,None,Buds/greens;Pollinator,Garden;Roof,"Recommended root runner plant (also gumplant, goldenrod, dudleya). Attracts American Lady (Vanessa virginensis) and Painted Lady (Vanessa cardui) butterflies."
+No,Coast Angelica,Perennial,Partial Sun,30,90,Summer,,Yes,,,White,SF Native,Coastal scrub,Clay;Loam;Sand,None,Buds/greens;Pollinator,Garden,"Recommended. Big robust leaves, but not weedy. Attracts Anise swallowtail (Papilio zelicaon) butterfly."
+No,Sea Thrift,Perennial,Full Sun,30,90,Summer,,Yes,,,Pink,SF Native,Coastal scrub;Dunes,Loam;Rock;Sand,None,Pollinator,Garden;Sidewalk;Roof,"Not recommended for east side planting (strictly sand dune plant), may need additional moisture in a garden environment. Attracts Green Hairstreak (Callophrys viridis)."
+No,Narrowleaf Milkweed,Perennial,Partial Sun,30,90,Summer,,Yes,,,Pink;White,CA Native,Chaparral;Riparian;Woodland,Clay;Loam;Sand;Rock,Low,Buds/greens;Pollinator,Sidewalk;Garden,"Spreads easily, and may need confinement. Keep away from children/pets. Speciosa may be preferable. Attracts Monarch butterfly (Danaus plexippus)."
+No,Cobweb Thistle,Perennial,Full Sun,30,90,Summer,,Yes,,,Pink,SF Native,Coastal scrub;Dunes;Grassland/prairie;Woodland,Clay;Loam,Low,Buds/greens;Pollinator,Garden,"Very temperamental plant. Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies."
+No,Beach Morning Glory,Perennial,Full Sun,30,90,Spring,Yes,,,,Pink,SF Native,Dunes,Sand,None,Buds/greens,Garden,"Needs dunes and shifting sand, most likely by ocean beach."
+No,Clustered Field Sedge,Perennial,Full Sun,30,90,Summer,,Yes,,,Green,SF Native,Wetland,Clay;Loam;Sand;Rock,Moderate,Nesting,Garden;Roof,"Suitable lawn alternative, and can tolerate standing water."
+No,Brownie Thistle,Perennial,Partial Sun,30,90,Summer,,Yes,,,White,SF Native,Grassland/prairie;Woodland,Clay;Loam,Low,Buds/greens;Pollinator,Garden,"Short plant that spreads well by runners. Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies."
+No,Franciscan Paintbrush,Perennial,Full Sun,30,90,Summer,,Yes,,,Orange;Red,SF Native,Coastal scrub;Grassland/prairie;Woodland,Clay;Rock,Low,Buds/greens;Pollinator,Garden,"Hemiparasitic (Need root system of other plants for moisture and minerals) - favor composite family such as artemisia, sagebrush, coyotebush, pearly everlasting). Attracts Chalcedon Checkerspot (Euphydryas chalcedona) butterfly."
+No,Wight's Paintbrush,Perennial,Full Sun,30,90,Summer,,Yes,,,Red;White;Yellow,SF Native,Coastal scrub;Grassland/prairie;Woodland,Clay;Loam;Sand,Low,Buds/greens;Pollinator,Garden,"Hemiparasitic (Need root system of other plants for moisture and minerals) - favor composite family such as artemisia, sagebrush, coyotebush, pearly everlasting). Attracts Chalcedon Checkerspot (Euphydryas chalcedona) butterfly."
+No,Blueblossom,Shrub (evergreen),Full Sun,30,90,Spring,Yes,,,,Blue,SF Native,Chaparral;Coastal scrub;Woodland,Clay;Loam,None,Cover;Buds/greens;Pollinator,Sidewalk;Garden,"Fragrant flowers. Attracts Cedar Waxwing bird and Echo Blue (Celestrina ladon echo), California Tortoiseshell (Nymphalis californica) butterflies."
+No,Soap Plant,Perennial,Partial Sun,30,90,Summer,,Yes,,,White,SF Native,Chaparral;Coastal scrub;Grassland/prairie;Woodland,Clay;Loam;Sand,Low,Buds/greens;Pollinator,Garden,Tough plant that is easy to grow. Flowers only open in evening or very overcast weather.
+No,Farewell to Spring,Annual,Partial Sun,30,90,Summer,,Yes,,,Pink,SF Native,Coastal scrub;Dunes;Grassland/prairie,Clay;Loam,None,Pollinator,Garden,
+No,Hart's Tongue Fern,Fern,Partial Shade,30,90,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,Common Sand Aster,Perennial,Partial Sun,30,90,Summer,,Yes,,,Pink;Purple,CA Native,Chaparral;Coastal scrub;Dunes,Clay;Loam;Sand,Low,Buds/greens;Pollinator,Garden;Roof,
+No,Common Snowberry,Shrub (deciduous),Partial Sun,30,90,Summer,,Yes,,,Pink,SF Native,Woodland;Coastal scrub,Clay;Loam;Sand;Rock,Low,Cover;Fruit,Sidewalk;Garden,"Attracts quail, pheasant, and grouse."
+No,Trailing Snowberry,Shrub (deciduous),Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Pink,SF Native,Woodland;Coastal scrub,Clay;Loam;Sand,Low,Cover;Fruit;Pollinator;Nesting,Garden,
+No,Wild Aster,Perennial,Full Sun,30,90,Summer,,Yes,,,Pink,SF Native,Chaparral;Coastal scrub;Dunes;Grassland/prairie;Riparian;Woodland,Clay;Loam;Sand;Rock,None,Buds/greens;Pollinator,Garden;Roof,Attracts Field Crescent (Phyciodes campestris) butterfly.
+No,Dune Tansy,Perennial,Full Sun,30,90,Summer;Fall,,Yes,Yes,,Yellow,SF Native,Dunes,Sand,None,,Garden;Roof,
+No,Fringe Cups,Perennial,Partial Shade,30,90,Spring;Summer,Yes,Yes,,,Pink;White,SF Native,Woodland;Coastal scrub,Loam;Clay,Low,Cover;Pollinator,Garden,"Self-sowing, but not weedy."
+No,Bull Clover,Annual,Full Sun,30,90,Spring,Yes,,,,Red;White,SF Native,Coastal scrub;Riparian;Woodland,Clay;Loam;Sand,Moderate,,Garden,Wet grower. Attracts Orange Sulphur (Colias eurytheme).
+No,Pinpoint Clover,Annual,Full Sun,30,90,Spring,Yes,,,,Pink;White;Purple,SF Native,Grassland/prairie;Woodland,Clay;Loam;Sand,Low,,Garden,Attracts Orange Sulphur (Colias eurytheme).
+No,Whitetip Clover,Annual,Full Sun,30,90,Spring;Summer,Yes,Yes,,,Pink;White;Purple,SF Native,Coastal scrub;Riparian;Woodland,Clay;Loam;Sand,Low,,Garden,Attracts Orange Sulphur (Colias eurytheme).
+No,Tomcat Clover,Annual,Partial Sun,30,90,Spring,Yes,,,,Pink;White;Purple,SF Native,Chaparral;Grassland/prairie;Woodland,Clay;Loam,None,Pollinator,Garden,Attracts Orange Sulphur (Colias eurytheme) and Bay Checkerspot butterflies.
+No,Western Vervain,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Purple,CA Native,Riparian;Woodland,Clay;Loam;Sand;Rock,Low,Pollinator,Garden,Attracts Mournful Duskywing (Erynnis tristis).
+No,California Oatgrass,Grass,Full Sun,30,90,Winter,,,,Yes,Brown;Green,SF Native,Grassland/prairie;Coastal scrub;Wetland;Woodland,Clay;Loam;Sand,Low,Fruit,Garden,"Deep roots, takes to hillsides well, and better erosion protection than most trees."
+No,Coast Tarweed,Annual,Full Sun,30,90,Spring;Summer;Fall,Yes,Yes,Yes,,Yellow,SF Native,Grassland/prairie,Clay,Low,Buds/greens;Fruit;Pollinator,Garden,Best on east side of the city.
+No,Saltgrass,Grass,Partial Sun,30,90,Summer,,Yes,,,Green;Yellow,SF Native,Wetland,Clay;Loam;Sand,Low,Buds/greens;Fruit,Garden,Attracts Westen Pygmy Blue butterfly (Brephidium exile).
+No,Common or Creeping Spikerush,Grass,Full Sun,30,90,Spring,Yes,,,,Brown,SF Native,Riparian;Wetland,Clay;Loam;Sand;Rock,Moderate,Buds/greens;Cover;Nesting,Garden,Brown Seedhead.
+No,Blue Wild-rye,Grass,Partial Shade,30,90,Summer,,Yes,,,Blue;Yellow,SF Native,Coastal scrub;Grassland/prairie;Woodland,Clay;Loam;Sand,None,Fruit,Garden;Roof,Versatile flower that is a weedfighter and survivor.
+No,American Dune Grass,Grass,Full Sun,30,90,Summer,,Yes,,,Yellow,SF Native,Dunes,Sand,None,Pollinator,Sidewalk;Garden,"Needs dunes and shifting sand, most likely by ocean beach."
+No,Pacific wild rye,Grass,Partial Sun,30,90,Summer,,Yes,,,Yellow,SF Native,Coastal scrub;Dunes,Clay;Loam;Sand,Low,Fruit,Garden;Roof,
+No,California Fescue,Grass,Partial Shade,30,90,Spring;Winter,Yes,,,Yes,Yellow,SF Native,Woodland;Coastal scrub,Clay;Loam,Low,Cover,Garden;Sidewalk;Roof,Attracts Black-tailed jackrabbit.
+No,California Fuchsia,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Orange;Pink,CA Native,Coastal Scrub;Chaparral,Loam;Rock;Sand,None,Pollinator,Garden;Roof,Attracts Anna's Hummingbird and White Line Sphinx moth.
+No,Willow Herb,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Pink,SF Native,Wetland;Coastal scrub;Riparian;Woodland,Clay;Loam;Sand;Rock,Low,Fruit;Pollinator,Garden,Self-seeds. Attracts Lesser Goldfinches.
+No,Mock Heather,Shrub (evergreen),Full Sun,30,90,Fall,,,Yes,,Yellow,SF Native,Dunes,Sand,None,Cover,Sidewalk;Garden,"Needs dunes and shifting sand, most likely by ocean beach."
+No,Seaside Daisy,Perennial,Partial Sun,30,90,Spring;Winter,Yes,,,Yes,Pink,SF Native,Dunes;Coastal scrub,Clay;Loam;Sand,None,Pollinator,Garden;Sidewalk;Roof,Adaptable to many locations. Attracts Green Hairstreak (Callophrys viridis) butterfly.
+No,Coast Buckwheat,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Pink,SF Native,Dunes;Coastal Scrub;Grassland/prairie,Rock;Sand;Clay,None,Buds/greens;Pollinator,Garden;Sidewalk;Roof,Recommended. Attracts Green Hairstreak (Callophrys viridis) and Acmon Blue (Plebejus acmon) butterflies.
+No,Lizardtail,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Yellow,SF Native,Dunes;Coastal scrub,Clay;Loam;Sand,None,Pollinator,Garden;Sidewalk;Roof,"Recommended. Likes the fog belt, but could do the east side."
+No,San Francisco Wallflower,Perennial,Full Sun,30,90,Spring,Yes,,,,Yellow,SF Native,Coastal scrub;Dunes,Loam;Sand;Clay;Rock,None,Pollinator,Garden,CNPS Rare Plant
+No,California Poppy,Perennial,Full Sun,30,90,Spring;Summer,Yes,Yes,,,Orange;Yellow,SF Native,Chaparral;Grassland/prairie;Woodland;Coastal scrub;Dunes,Clay;Loam;Sand;Rock,None,Cover;Pollinator,Garden;Sidewalk;Roof,"Coastal form is smaller and more yellow, large orange form is native inland."
+No,Molate Fescue,Grass,Partial Sun,30,90,Spring,Yes,,,,Indigo,CA Native,Grassland/prairie,Clay;Loam;Sand,None,Cover;Fruit,Garden;Roof,
+No,Alkali-heath,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Pink,SF Native,Wetland,Clay;Loam;Sand,Moderate,Fruit,Garden,
+No,Gaillardia (Blanket Flower),Perennial,Full Sun,30,90,Summer,,Yes,,,Orange;Red;Yellow,Exotic,,Clay;Loam;Sand,Low,Pollinator,Garden,
+No,Dune Gilia,Annual,Full Sun,30,90,Spring;Summer,Yes,Yes,,,Blue,SF Native,Coastal scrub;Dunes;Grassland/prairie,Clay;Loam;Sand,None,Pollinator,Garden,
+No,Sea milkwort,Perennial,Full Sun,30,90,Spring,Yes,,,,White,SF Native,Wetland,Clay;Loam;Sand,Moderate,,Garden,
+No,San Francisco Gumplant,Perennial,Partial Sun,30,90,Summer,,Yes,,,Yellow,SF Native,Coastal scrub;Woodland,Clay;Rock,None,Pollinator,Garden;Sidewalk;Roof,"CNPS Rare Plant. Tough plant, easy to grow, self seeding. Attracts Common Buckeye (Junonia coenia) butterfly."
+No,Bolander's Goldenaster,Perennial,Full Sun,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Yellow,CA Native,Grassland/prairie,Clay;Rock,None,Fruit;Pollinator,Garden,
+No,Alum Root,Perennial,Partial Shade,30,90,Spring;Summer,Yes,Yes,,,White,SF Native,Woodland;Coastal scrub,Clay;Loam,Moderate,Pollinator,Garden;Sidewalk;Roof,Prefers north facing cliff faces and cracks in the rock.
+No,Meadow Barley,Grass,Partial Sun,30,90,Summer,,Yes,,,Yellow,SF Native,Grassland/prairie;Riparian;Wetland;Woodland;Coastal scrub,Clay;Loam,Low,Buds/greens;Cover;Fruit,Garden,
+No,California Horkelia,Perennial,Partial Sun,30,90,Spring,Yes,,,,White,SF Native,Coastal scrub;Grassland/prairie,Clay;Rock,None,Pollinator,Sidewalk;Garden,
+No,Harlequin Lotus,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Yellow,SF Native,Coastal scrub;Riparian;Wetland;Woodland,Clay,Moderate,Pollinator,Garden,
+No,Douglas Iris,Perennial,Partial Sun,30,90,Spring;Winter,Yes,,,Yes,Purple,SF Native,Grassland/prairie;Woodland;Coastal scrub,Clay;Loam,Low,Buds/greens;Pollinator,Garden;Sidewalk;Roof,"Likes wind and fog, include longipella (likes warmer, calmer, drier)."
+No,Low Bulrush,Annual,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,White,SF Native,Wetland,Clay;Loam,Moderate,,Garden,
+No,Salt Rush,Perennial,Partial Sun,30,90,Spring,Yes,,,,Yellow,SF Native,Woodland,Clay;Loam;Sand,Moderate,Cover,Garden;Roof,"Creeping rush, runner not buncher."
+No,Iris-leaved Rush,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Burgundy,SF Native,Riparian;Wetland;Woodland,Clay;Loam,Moderate,,Garden,spreads well by runners.
+No,June Grass,Grass,Partial Sun,30,90,Spring,Yes,,,,Green,SF Native,Chaparral;Coastal scrub;Woodland;Grassland/prairie,Clay;Loam,None,Fruit,Roof;Garden,Great bunchgrass.
+No,Smooth Goldfields,Annual,Partial Sun,30,90,Spring,Yes,,,,Yellow,CA Native,Coastal scrub;Wetland;Woodland,Clay;Loam,Moderate,Pollinator,Garden,
+No,Yellow-rayed Goldfields,Annual,Partial Sun,30,90,Spring;Winter,Yes,,,Yes,Yellow,CA Native,Wetland;Woodland,Clay;Loam,Moderate,Pollinator,Garden,Attracts Checkerspot butterfly (endangered).
+No,Lavender,Shrub (evergreen),Full Sun,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Purple,Exotic,,Clay;Loam,None,Pollinator;Cover,Sidewalk;Garden,"Relatively short-lived, it will become leggy if not pruned after flowering."
+No,Leafy-stemmed Coreopsis,Annual,Partial Sun,30,90,Spring;Winter,Yes,,,Yes,Yellow,CA Native,Woodland,Clay;Loam,Low,Pollinator,Garden,
+No,Sea Lavender,Perennial,Partial Sun,30,90,Summer,,Yes,,,Purple,SF Native,Wetland,Clay;Loam;Sand,Moderate,Buds/greens;Pollinator,Sidewalk;Garden,
+No,California Celery,Perennial,Partial Shade,30,90,Spring,Yes,,,,Yellow,CA Native,Chaparral;Woodland,Clay;Loam,Low,Buds/greens,Garden,Dry grower. Attracts Anise Swallowtail (Papilio Zelicaon) butterfly.
+No,Miniature Lupine,Annual,Partial Sun,30,90,Spring,Yes,,,,Purple;White,SF Native,Coastal scrub;Grassland/prairie;Dunes,Clay;Loam;Sand,None,Cover;Pollinator,Garden;Roof,Plant to the east of sunset.
+No,Varied Lupine,Perennial,Full Sun,30,90,Spring;Summer,Yes,Yes,,,Purple;White,SF Native,Coastal scrub;Grassland/prairie,Loam;Sand,None,Cover;Pollinator,Garden;Sidewalk;Roof,Plant to the east of sunset.
+No,Creeping Mahonia,Shrub (evergreen),Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Yellow,CA Native,Chaparral;Woodland,Clay;Loam;Sand,Low,Fruit,Sidewalk;Garden,
+No,California Melic,Grass,Partial Sun,30,90,Summer,,Yes,,,Yellow,SF Native,Woodland;Grassland/prairie,Clay;Loam,None,Fruit,Garden,"Requires moisture in growing season, then wants to be dry after flowering."
+No,Torrey melic,Grass,Partial Sun,30,90,Spring,Yes,,,,Purple;Yellow,SF Native,Woodland,Clay;Loam;Rock,Low,Cover;Fruit;Nesting,Sidewalk;Garden,Best in rocky outcrops.
+No,Sticky Monkeyflower,Shrub (evergreen),Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Orange,SF Native,Coastal scrub;Woodland;Dunes,Clay;Loam;Sand;Rock,None,Buds/greens;Pollinator,Garden;Roof,"Plant in dry areas, endures wind well. Attracts Nutall's White-crowned Sparrow, Buckeye (Junonia coenia) and Variable Checkerspot (Euphydras chalcedona) butterflies, and Anna's Hummingbird."
+No,Coyote Mint,Perennial,Partial Sun,30,90,Summer,,Yes,,,Purple,SF Native,Coastal scrub;Woodland;Grassland/prairie,Clay;Loam,None,Pollinator,Garden;Roof,Prefer dry areas. Attracts Western Fence Lizard.
+No,Deer Grass,Grass,Partial Sun,30,90,Spring,Yes,,,,White,CA Native,Chaparral,Clay;Loam,Low,Nesting,Garden;Roof,
+No,"Ditch-carrot, Water Parsley",Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,White,SF Native,Riparian;Wetland;Woodland,Clay;Loam,Moderate,Buds/greens,Garden,Wet grower.
+No,Scarlet Bugler,Perennial,Full Sun,30,90,Spring;Summer,Yes,Yes,,,Red,CA Native,Chaparral,Clay,Low,Pollinator,Garden,
+No,Penstemon,Perennial,Partial Sun,30,90,Summer,,Yes,,,Indigo,CA Native,Chaparral;Woodland,Clay,Low,Pollinator,Garden;Sidewalk;Roof,
+No,Water Smartweed,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Pink,SF Native,Wetland,Clay;Loam;Sand,Moderate,,Garden,
+No,Common Knotweed,Annual,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Pink;White,SF Native,Wetland,Clay;Loam,Moderate,,Garden,
+No,Dotted Smartweed,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,White,SF Native,Wetland,Clay;Loam,Moderate,,Garden,Wet grower.
+No,California Phacelia,Perennial,Full Sun,30,90,Summer,,Yes,,,Purple,SF Native,Coastal scrub;Chaparral,Clay;Loam,None,Buds/greens;Pollinator,Garden;Roof,Attracts endangered Mission Blue butterfly.
+No,Stinging Phacelia,Annual,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,White,SF Native,Coastal scrub;Woodland,Loam;Sand;Clay,None,Pollinator,Garden,
+No,California Canarygrass,Grass,Partial Sun,30,90,Spring,Yes,,,,Magenta,SF Native,Coastal scrub;Grassland/prairie;Wetland,Clay;Loam,Low,Buds/greens;Cover;Fruit,Garden,"Rare in SF, but present on San Bruno mountain. Attracks Woodland Skipper (Ochlodes sylvanoides) butterfly."
+No,Grevillea,Shrub (evergreen),Partial Sun,30,90,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Garden,
+No,Redberry,Shrub (evergreen),Partial Sun,30,90,Winter,,,,Yes,Yellow,SF Native,Chaparral;Coastal scrub;Woodland,Clay;Rock,Low,Fruit;Pollinator,Garden,
+No,Salt marsh fleabane,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Purple,CA Native,Wetland,Clay;Loam;Sand,Moderate,Buds/greens;Pollinator,Garden,
+No,Polypody Fern,Fern,Partial Shade,30,90,,,,,,,SF Native,Coastal scrub;Woodland,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Western Sword Fern,Fern,Partial Shade,30,90,,,,,,,SF Native,Woodland;Coastal scrub,Clay;Loam,Moderate,,Garden;Roof,
+No,Centaury,Annual,Partial Sun,30,90,Spring;Summer;Fall,Yes,Yes,Yes,,Purple,CA Native,Chaparral,Loam;Clay,None,Fruit,Garden,
+No,Bracken Fern,Fern,Partial Sun,30,90,,,,,,,SF Native,Woodland;Coastal scrub;Dunes,Clay;Loam;Sand,Low,,Garden;Roof,Grows everywhere – cosmopolitan fern.
+No,California Buttercup,Perennial,Partial Sun,30,90,Spring;Winter,Yes,,,Yes,Yellow,SF Native,Coastal scrub;Riparian;Woodland,Clay;Loam,None,Pollinator,Garden;Roof,
+No,Wood Rose/Dwarf Rose,Shrub (deciduous),Partial Sun,30,90,Spring,Yes,,,,Pink,SF Native,Coastal scrub;Chaparral;Grassland/prairie;Woodland;Riparian,Clay;Loam,Low,Fruit;Pollinator,Garden,
+No,Golden Dock,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Yellow,SF Native,Wetland,Clay;Loam,Moderate,Fruit;Pollinator,Garden,
+No,Hummingbird Sage,Perennial,Partial Sun,30,90,Spring;Summer;Winter,Yes,Yes,,Yes,Pink,SF Native,Chaparral;Coastal scrub;Woodland,Clay;Loam;Sand;Rock,None,Buds/greens;Cover;Pollinator,Garden;Sidewalk;Roof,Attracts Anna's Hummingbird.
+No,California Bee Plant,Perennial,Partial Sun,30,90,Spring;Winter,Yes,,,Yes,Burgundy,SF Native,Coastal scrub;Riparian;Woodland;Dunes,Clay;Loam;Sand,None,Pollinator,Garden;Roof,Attracts Variable Checkerspot (Euphydryas chalcedona) and Common Buckeye (Junonia coenia).
+No,Blue-eyed Grass,Perennial,Partial Sun,30,90,Spring,Yes,,,,Indigo,SF Native,Coastal scrub;Woodland;Grassland/prairie,Clay;Loam,None,,Garden;Roof,
+No,Goldenrod,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Yellow,SF Native,Coastal scrub;Grassland/prairie;Woodland,Clay;Loam,None,Buds/greens;Pollinator,Sidewalk;Garden,
+No,Dune Goldenrod,Perennial,Partial Sun,30,90,Spring;Summer;Fall,Yes,Yes,Yes,,Yellow,SF Native,Coastal scrub;Dunes,Clay;Loam;Sand,None,Buds/greens;Pollinator,Sidewalk;Garden,Attracts Monarch Butterfly (Danaus plexippus).
+No,Purple Needlegrass,Grass,Partial Sun,30,90,Spring,Yes,,,,Purple;Yellow,SF Native,Chaparral;Grassland/prairie;Woodland,Clay;Loam,None,Nesting,Garden;Roof,Indispensable.
+No,Narrowleaf Mule Ears,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Yellow,SF Native,Chaparral;Grassland/prairie;Woodland,Clay;Loam,None,Pollinator,Garden,Attracts endangered Fender’s Blue Butterfly.
+No,Thyme,Perennial,Full Sun,30,90,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Garden,
+No,Bentgrass,Grass,Partial Sun,30,90,Spring,Yes,,,,,SF Native,Chaparral;Grassland/prairie;Woodland;Coastal scrub,Clay;Loam,Low,,Garden;Roof,
+No,Mugwort,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,White,SF Native,Chaparral;Woodland;Riparian;Coastal scrub;Wetland,Clay;Loam,Low,,Garden;Roof,
+No,Santa Barbara sedge,Grass,Partial Sun,30,90,Summer,,Yes,,,,CA Native,Grassland/prairie;Woodland;Coastal scrub;Wetland,Clay;Loam;Sand,Moderate,,Garden,Good ground cover
+No,Daffodil or Narcissus,Perennial,Partial Sun,30,90,,,,,,White,Exotic,,Sand;Loam,None,,Sidewalk;Garden,
+No,Scouring Rush Horsetail,Perennial,Partial Shade,30,90,Spring,Yes,,,,,SF Native,Wetland; Riparian; Woodland,Clay;Loam;Sand,Moderate,,Garden,Prefers moist soils
+No,Salal,Shrub (evergreen),Partial Shade,30,90,Spring,Yes,,,,White;Pink,SF Native,Wetland;Coastal scrub;Woodland,Clay;Loam,Low,Fruit,Garden,
+No,Spreading rush,Grass,Partial Sun,30,90,Spring,Yes,,,,Yellow,SF Native,Riparian;Coastal scrub;Wetland,Clay;Loam;Sand,Low,,Garden;Sidewalk;Roof,
+No,Coast range melic,Grass,Partial Sun,30,90,Spring;Winter,Yes,,,Yes,,SF Native,Chaparral;Coastal scrub;Woodland,Clay;Loam;Sand,None,,Garden;Roof,
+No,Scarlet monkeyflower,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Red,CA Native,Wetland;Riparian,Clay;Loam,Moderate,Pollinator,Garden,
+No,Creek monkeyflower,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Yellow,SF Native,Riparian;Wetland,Clay;Loam,Moderate,Pollinator,Garden,Long blooming period
+No,Redwood sorrel,Perennial,Shade,30,90,Spring,Yes,,,,Purple,CA Native,Woodland,Loam;Clay,Low,Pollinator,Garden,Great understory ground cover
+No,Hooker's fairy bells,Perennial,Partial Shade,30,90,Spring;Summer,Yes,Yes,,,White,SF Native,Woodland,Clay;Loam,Low,,Garden,
+No,Nightshade,Perennial,Partial Sun,30,90,Spring;Summer;Winter,Yes,Yes,,Yes,Purple,SF Native,Chaparral;Coastal Scrub;Woodland,Clay;Loam,None,Fruit;Pollinator,Garden,
+No,Foothill needlegrass,Grass,Full Sun,30,90,Spring,Yes,,,,,SF Native,Chaparral;Coastal Scrub;Grassland/prairie,Clay;Loam,None,,Garden;Roof,Good ground cover
+No,Rosemary,Shrub (evergreen),Full Sun,30,90,Spring;Summer,Yes,Yes,,,Blue,Exotic,,Clay;Loam,None,Pollinator,Sidewalk;Garden,Good ground cover
+No,Ithuriel's Spear,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Purple,SF Native,Chaparral;Woodland;Grassland/prairie,Clay;Loam,None,Pollinator,Garden;Sidewalk;Roof,
+No,Berkley sedge,Grass,Partial Shade,30,90,Spring,Yes,,,,,SF Native,Woodland;Grassland/prairie;Coastal scrub,Clay;Loam,Low,,Sidewalk;Garden,
+No,Point Reyes Ceanothus,Shrub (evergreen),Partial Sun,30,90,Spring;Winter,Yes,,,Yes,Blue;Purple,CA Native,Chaparral;Coastal scrub;Woodland,Clay;Loam;Sand,None,Pollinator,Sidewalk;Garden,
+No,Hound's Tongue,Perennial,Partial Shade,30,90,Spring,Yes,,,,Blue;Purple,SF Native,Woodland;Chaparral;Coastal scrub,Clay;Loam,Low,Pollinator,Sidewalk;Garden,
+No,California Buckwheat,Shrub (evergreen),Full Sun,30,90,Spring;Summer;Fall,Yes,Yes,Yes,,Pink;White,CA Native,Coastal scrub;Grassland;Woodland,Clay;Loam;Sand,None,Pollinator,Sidewalk;Garden,
+No,Sulphurflower buckwheat,Perennial,Full Sun,30,90,Summer,,Yes,,,Yellow,CA Native,Chaparral,Clay;Loam;Sand,None,Pollinator,Roof;Sidewalk;Garden,
+No,Common rush,Grass,Partial Sun,30,90,Summer,,Yes,,,,SF Native,Riparian;Wetland;Woodland,Clay;Loam,Moderate,,Sidewalk;Garden,Shelter for birds
+No,Catnip,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Blue;Purple;White,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,California Indian Pink,Perennial,Partial Sun,30,90,Summer,,Yes,,,Red,CA Native,Coastal scrub;Chaparral,Clay;Sand,None,Pollinator,Garden;Sidewalk;Roof,
+No,English Lavender,Shrub (evergreen),Full Sun,30,90,Summer;Fall,,Yes,Yes,,Indigo,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Goodwin Creek Lavender,Shrub (evergreen),Full Sun,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Purple,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Spanish White Lavender,Shrub (evergreen),Full Sun,30,90,Spring;Fall,Yes,,Yes,,White,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Spanish Lavender,Shrub (evergreen),Full Sun,30,90,spring;summer,Yes,Yes,,,Purple,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,French Lavender,Shrub (evergreen),Full Sun,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Purple,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Hairy Evening Primrose,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Yellow,CA Native,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Small Jerusalem Sage,Shrub (evergreen),Full Sun,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Yellow,Exotic,,Clay;Sand;Loam,None,,Sidewalk;Garden,
+No,New Zealand Flax,Perennial,Partial Sun,30,90,,,,,,Red/Brown,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,New Zealand Flax,Perennial,Partial Sun,30,90,,,,,,,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,New Zealand Flax,Perennial,Partial Sun,30,90,,,,,,,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Australian Thorny Saltbush,Shrub (evergreen),Full Sun,30,90,,,,,,,Exotic,,Sand;Loam,None,,Sidewalk;Garden,
+No,Indian hawthorn,Shrub (evergreen),Partial Sun,30,90,Spring;Fall,Yes,,Yes,,Pink,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,"Prostrate Rosemary, Creeping Rosemary",Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Blue;Purple,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Bee's Bliss Sage,Perennial,Full Sun,30,90,Spring,Yes,,,,purple;blue,CA Native,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Autumn Sage,Shrub (evergreen),Full Sun,30,90,Summer;Fall,,Yes,Yes,,White,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Salmon Texas Sage,Shrub (evergreen),Full Sun,30,90,Spring;Fall,Yes,,Yes,,Pink,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Lavender Cotton,Shrub (evergreen),Full Sun,30,90,Spring;Summer,Yes,Yes,,,Yellow,Exotic,,Sand;Loam,None,,Sidewalk;Garden,
+No,Stonecrop,Succulent,Full Sun,30,90,Summer,,Yes,,,Yellow,Exotic,,Sand;Loam,None,,Roof;Sidewalk;Garden,
+No,California Indian Pink,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Red,CA Native,Coastal scrub;Chaparral;Woodland,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Amani Senecio,Succulent,Full Sun,30,90,Summer,,Yes,,,Orange,Exotic,,Sand;Loam,None,,Sidewalk;Garden,
+No,Dusty Miller,Succulent,Full Sun,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,White,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Blue finger,Succulent,Full Sun,30,90,Summer,,Yes,,,White,Exotic,,Sand;Loam,None,Cover,Sidewalk;Garden,
+No,Australian Bluebell Creeper,Shrub (evergreen),Partial Shade,30,90,Spring;Summer;Fall,Yes,Yes,Yes,,Blue,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Feather Grass,Grass,Full Sun,30,90,Summer,,Yes,,,Brown;Green;Purple,Exotic,,Sand;Loam;Clay,None,,Sidewalk;Garden,
+No,Cedros Island Verbena,Perennial,Partial Sun,30,90,Spring;summer,Yes,Yes,,,Purple,CA Native,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Penstemon,Perennial,Partial Sun,30,90,Spring;summer,Yes,Yes,,,Indigo;Blue;Ourple,CA Native,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Black-eyed Susan,Perennial,Full Sun,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Yellow;Orange,Exotic,,Clay;Sand;Loam,None,Pollinator,Garden,
+No,Indigo Spires sage,Perennial,Partial Sun,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Blue;Purple;White,Exotic,,Sand;Loam,None,Pollinator,Garden,
+No,Caterpillar phacelia,Annual,Full Sun,30,90,Spring;Summer,Yes,Yes,,,White,CA Native,,Sand;Loam,None,Pollinator,Garden,
+No,Tansy phacelia,Annual,Full Sun,30,90,Spring;Summer,Yes,Yes,,,Purple,CA Native,,Sand;Loam,None,Pollinator,Garden,
+No,Brandegee sage,Perennial,Full Sun,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,White,CA Native,Coastal scrub;Chaparral;Woodland,Sand;Loam,None,Pollinator,Garden;Roof,
+No,Distant phacelia,Annual,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,White;Ourple,SF Native,Grassland/prairie;Chaparral;Woodland,Sand;Loam,None,Pollinator,Garden,
+No,Sticky phacelia,Annual,Full Sun,30,90,Spring;Summer,Yes,Yes,,,Indigo,CA Native,,Sand;Loam,None,Pollinator,Garden,
+No,Arizona beggarticks,Perennial,Full Sun,30,90,Summer;Fall,,Yes,Yes,,Yellow,Exotic,,Sand;Loam,Low,Pollinator,Garden,
+No,Blanket flower,Perennial,Full Sun,30,90,Summer;Fall,,Yes,Yes,,Orange;Yellow;Red,Exotic,,Sand;Loam,None,Pollinator,Garden,
+No,Sunflower,Annual,Full Sun,30,90,Summer;Fall,,Yes,Yes,,Yellow,CA Native,Wetland;riparian,Sand;Loam,Low,Pollinator,Garden,
+No,Bog sage,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Blue,Exotic,,Sand;Loam,Moderate,Pollinator,Garden,
+No,Borage,Annual,Partial Sun,30,90,Spring,Yes,,,,Blue,Exotic,,Sand;Loam,None,Pollinator,Garden,
+No,Pot Marigold,Perennial,Full Sun,30,90,Spring,Yes,,,,Yellow;Orange,Exotic,,Sand;Loam,None,Pollinator,Garden,
+No,Whorled Tickseed,Perennial,Full Sun,30,90,Spring;summer,Yes,Yes,,,Yellow,Exotic,,Sand;Loam,None,Pollinator,Garden,
+No,Salvation Jane,Perennial,Full Sun,30,90,Spring,Yes,,,,Indigo,Exotic,,Sand;Loam,None,Pollinator,Garden,
+No,Brittlebush,Perennial,Full Sun,30,90,Spring,Yes,,,,Yellow,CA Native,,Sand;Loam,None,Pollinator,Garden,
+No,California Gilia,Annual,Partial Sun,30,90,Spring,Yes,,,,Purple,CA Native,,Sand;Loam,None,Pollinator,Garden,
+No,Sneezeweed,Perennial,Full Sun,30,90,Spring,Yes,,,,Yellow,SF Native,wetland;riparian,Sand;Loam,Moderate,Pollinator,Garden,
+No,Tidytips,Annual,Full Sun,30,90,Spring,Yes,,,,Yellow,SF Native,Coastal scrub;Woodland;Chaparral;Grassland,Sand;Loam,None,Pollinator,Garden;Roof,
+No,Blazing Star,Annual,Full Sun,30,90,Spring,Yes,,,,Yellow,CA Native,,Sand;Loam,None,Pollinator,Garden,
+No,"Desert Penstemon, Parry's beardtongue",Perennial,Partial Sun,30,90,Spring,Yes,,,,Pink;red,Exotic,,Clay;Loam;Sand;Rock,None,Pollinator,Garden,
+No,Large-flower phacelia,Annual,Full Sun,30,90,Spring,Yes,,,,Purple,CA Native,,Loam;Sand,None,Pollinator,Garden,
+No,santolina,Shrub (evergreen),Full Sun,30,90,Summer,,Yes,,,Yellow,Exotic,,Clay;Loam;Sand,Low,,Garden,
+No,San Francisco bluegrass,Grass,Full Sun,30,90,Spring,Yes,,,,,SF Native,Coastal scrub,Clay;Loam;Sand,Low,,Garden,
+No,tall coastal plantain,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,,SF Native,Wetland;Riparian;Coastal scrub;Woodland,Clay;Loam,Moderate,Pollinator,Garden,
+No,coffee fern,Fern,Full Sun,30,90,,,,,,,SF Native,Grassland/prairie;Woodland;Chaparral,Sand,None,,Garden,
+No,catmint,Perennial,Full Sun,30,90,Summer;Fall,,Yes,Yes,,,Exotic,,Clay;Loam;Sand,Low,,Garden,
+No,San Francisco coyote mint,Perennial,Full Sun,30,90,Spring;Summer,Yes,Yes,,,Purple,SF Native,coastal scrub;chaparral,Loam;Sand,None,Pollinator,Garden,
+No,dune buckwheat,Perennial,Full Sun,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Pink;White,CA Native,Coastal scrub,Clay;Loam;Sand,None,,Garden;Roof,
+No,San Francisco leafy fleabane,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Pink,SF Native,Grassland/prairie;chaparral;woodland;wetland;coastal scrub,Clay;Loam;Sand,None,,Garden,
+No,slender wheatgrass,Grass,Full Sun,30,90,Spring,Yes,,,,,CA Native,riparian;wetland,Clay;Loam;Sand,Moderate,,Garden,
+No,creeping spikerush,Grass,Full Sun,30,90,Summer,,Yes,,,White,SF Native,riparian;wetland,Clay;Loam;Sand,Moderate,,Garden,
+No,spreading wood fern,Fern,Partial Shade,30,90,,,,,,,CA Native,Riparian;Wetland;Woodland,Clay;Loam,Low,,Garden,
+No,chamomile,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,White,Exotic,,Clay;Loam;Sand,Low,,Sidewalk;Garden,
+No,field chickweed,Perennial,Full Sun,30,90,Spring,Yes,,,,White,SF Native,Riparian;Wetland;Coastal scrub;Woodland,Clay;Loam;Sand,None,,Garden,
+No,dense sedge,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,,SF Native,,Clay;Loam,Low,,Garden,
+No,creeping Oregon grape,Shrub (evergreen),Partial Sun,30,90,Spring,Yes,,,,Yellow,CA Native,Chaparral;Woodland,Clay;Loam,Low,Fruit,Garden,
+No,California saltbush,Perennial,Full Sun,30,90,Spring,Yes,,,,Yellow;Pink,SF Native,Wetland;Riparian;Coastal scrub,Clay,Low,,Garden,
+No,rough-leaved aster,Perennial,Full Sun,30,90,Summer;Fall,,Yes,Yes,,White,SF Native,Woodland,Clay;Loam;Sand,Low,,Garden,
+No,showy milkweed,Perennial,Partial Sun,30,90,Summer,,Yes,,,white;pink,CA Native,,Clay;Loam;Sand,Low,,Garden,
+No,Pacific foxtail,Grass,Full Sun,30,90,Spring,Yes,,,,Yellow,CA Native,Grassland/prairie;Coastal scrub;Chaparral;Wetland;Riparian;Woodland,Clay;Loam,Low,,Garden,
+No,Hall's bentgrass,Grass,Full Sun,30,90,Spring;Summer,Yes,Yes,,,,SF Native,Woodland,Clay;Loam;Sand,None,,Garden,
+No,bentgrass,Grass,Full Sun,30,90,Spring,Yes,,,,White,SF Native,Grassland/prairie;Chaparral;Woodland;Wetland;Riparian,Clay;Loam;Sand,Low,,Garden,
+No,California maidenhair fern,Fern,Partial Shade,30,90,,,,,,,SF Native,Grassland/prairie;Woodland;Wetland;Riparian;Chaparral,Clay;Loam,Moderate,,Garden,
+No,Hebe,Shrub (evergreen),Partial Sun,30,90,,,,,,Red,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Garden,
+No,Sunrose,Shrub (evergreen),Full Sun,30,90,,,,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Garden,
+No,Desert Goldeneye,Perennial,Full Sun,30,90,Spring;Summer,Yes,Yes,,,Yellow,CA Native,,Sand;Loam,None,,Garden,
+No,Sweet Pea Shrub,Shrub (evergreen),Partial Sun,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Purple,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,Kangaroo Paw,Perennial,Full Sun,30,90,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Garden,
+No,Grecian Horehound,Perennial,Full Sun,30,90,Summer,,Yes,,,White,Exotic,,Clay;Loam;Sand;Rock,None,,Garden,
+No,Brodiaea,Perennial,Full Sun,30,90,,,,,,,CA Native,,Rock,None,,Sidewalk;Garden,
+No,Rock Purslane,Succulent,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Purple,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Garden,
+No,Seaside Daisy,Perennial,Full Sun,30,90,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,Carpet Geranium,Perennial,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Purple,Exotic,,Sand;Loam,Low,,Garden,
+No,Corsican Hellebore,Perennial,Partial Shade,30,90,Spring;Fall,Yes,,Yes,,Yellow,Exotic,,Sand;Loam,Low,,Garden,
+No,Evergreen Candy Tuft,Perennial,Partial Sun,30,90,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Garden,
+No,Red Hot Poker,Perennial,Partial Sun,30,90,Spring;Summer;Winter,Yes,Yes,,Yes,Red,Exotic,,Sand;Loam,Low,Pollinator,Garden,
+No,California Aster,Perennial,Full Sun,30,90,Summer;Fall,,Yes,Yes,,Purple,SF Native,coastal scrub;dunes,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Orange Libertia,Perennial,Partial Sun,30,90,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Sea Lavender,Perennial,Full Sun,30,90,Summer,,Yes,,,Purple,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Lomondra,Grass,Partial Sun,30,90,Summer,,Yes,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,Parrot's Beak,Perennial,Partial Sun,30,90,Summer,,Yes,,,Red,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Catmint,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Purple;blue,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Garden,
+No,Mexican Evening Primrose,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Purple;pink,Exotic,,Sand;Loam,Low,Pollinator,Garden,
+No,African Daisy,Perennial,Full Sun,30,90,Summer,,Yes,,,White;Pink;Magenta,Exotic,,Sand;Loam;Clay,Low,,Sidewalk;Garden,
+No,Penstemon,Perennial,Partial Sun,30,90,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Garden,
+No,Pineneedle Beardtongue,Perennial,Partial Shade,30,90,Spring;Summer,Yes,Yes,,,Orange,Exotic,,Sand;Loam,Low,Pollinator,Garden,
+No,Russian Sage,Perennial,Full Sun,30,90,Summer;Fall,,Yes,Yes,,Blue,Exotic,,Sand;Loam,Low,Pollinator,Garden,
+No,Globe Mallow,Perennial,Full Sun,30,90,Spring,Yes,,,,Orange,CA Native,,Sand;Loam,None,Pollinator,Garden,
+No,Feverfew,Perennial,Full Sun,30,90,Summer,,Yes,,,White,Exotic,,Sand;Loam,Low,,Garden,
+No,Canary Island Rose,Shrub (evergreen),Partial Sun,30,90,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Deer Fern,Fern,Partial Shade,30,90,,,,,,,CA Native,,Loam;sand,Low,,Garden,
+No,Stalked bulbine,Shrub (evergreen),Partial Shade,30,90,Spring;Summer,Yes,Yes,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,"Cotyledon, Pigs Ears",Succulent,Partial Sun,30,90,Summer,,Yes,,,Orange,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Cooper's Ice Plant,Shrub (evergreen),Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Magenta,Exotic,,Sand,Low,Cover,Sidewalk;Garden,
+No,Globe Amaranth,Annual,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Magenta,Exotic,,Clay;Sand;Loam,Low,,Garden,
+No,Blue Oat Grass,Grass,Full Sun,30,90,Summer,,Yes,,,Blue;Brown,Exotic,,Clay;Loam;Sand;Rock,Low,Cover,Garden,
+No,Trailing Ice Plant,Shrub (evergreen),Full Sun,30,90,Spring;summer,Yes,Yes,,,Magenta;Pink;Purple,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,Blue Chalk Stalks,Shrub (evergreen),Partial Sun,30,90,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,Tree aenium,Succulent,Partial Sun,30,90,Summer,,Yes,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Lily-of-the-Nile,Perennial,Partial Sun,30,90,Summer;Fall,,Yes,Yes,,Blue,Exotic,,Sand;Loam;Clay,Low,Pollinator,Sidewalk;Garden,
+No,Mediopicta Alba' Squid,Succulent,Full Sun,30,90,,,,,,Yellow;Green,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Nova,Succulent,Partial Sun,30,90,,,,,,Yellow;Green,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Kangaroo Paw,Perennial,Full Sun,30,90,,,,,,Red;Orange;Yellow,Exotic,,Sand,Low,,Sidewalk;Garden,
+No,Silver Sage,Perennial,Full Sun,30,90,,,,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Sidewalk;Garden,
+No,Sandhill sage,Perennial,Full Sun,30,90,Spring;Summer,Yes,Yes,,,Yellow,CA Native,,Clay;Loam;Sand;Rock,None,,Sidewalk;Garden,
+No,Cape Mendicino Reed Grass,Perennial,Full Sun,30,90,Summer;Fall,,Yes,Yes,,,CA Native,Coastal scrub;Woodland,Sand;Loam,Low,,Sidewalk;Garden,
+No,Leather leaf sedge,Shrub (evergreen),Partial Sun,30,90,Summer,,Yes,,,Brown,Exotic,,Clay;Loam;Sand;Rock,Moderate,Pollinator,Sidewalk;Garden,
+No,Carmel creeper,Shrub (evergreen),Partial Sun,30,90,Spring;Winter,Yes,,,Yes,Blue,CA Native,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Low Blue Blossom,Shrub (evergreen),Partial Sun,30,90,,,,,,Blue,CA Native,,Clay;loam;Sand,None,Pollinator,Sidewalk;Garden,
+No,Magenta rockrose,Shrub (evergreen),Full Sun,30,90,Spring;Summer,Yes,Yes,,,Magenta,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Orange Clivia,Perennial,Partial Shade,30,90,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Yellow;orange,Exotic,,Clay;Loam;Sand;Rock,,,Garden;Potted Plant;Sidewalk,
+No,Bush morninglory,Shrub (evergreen),Partial Sun,30,90,Spring;Summer;Fall,Yes,Yes,Yes,,White,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Creeping coprosma,Shrub (evergreen),Partial Sun,30,90,,,,,,,Exotic,,Clay;Loam;Sand;Rock,None,,Sidewalk;Garden,
+No,Australian fuschia,Shrub (evergreen),Partial Sun,30,90,Spring,Yes,,,,Pink;Red,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Australian fuschia,Shrub (evergreen),Partial Sun,30,90,Spring,Yes,,,,White,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Flax Lily,Grass,Full Sun,30,90,Spring,Yes,,,,Blue,Exotic,,Clay;Loam;Sand;Rock,,,Sidewalk;Garden,
+No,Fortnight Lily,Perennial,Partial Sun,30,90,Spring;Fall,Yes,,Yes,,Yellow,Exotic,,Sand;Loam,Low;Moderate,,Sidewalk;Garden,
+No,African Iris,Perennial,Partial Sun,30,90,Spring;Fall,Yes,,Yes,,Yellow,Exotic,,Clay;Loam;Sand;Rock,,,Sidewalk;Garden,
+No,Mountain Dryad,Perennial,Full Sun,30,90,Spring;Summer,Yes,Yes,,,White,Exotic,,Sand;Loam,Low,Pollinator,Sidewalk;Garden,
+No,Green Rush,Grass,Partial Sun,30,90,Summer,,Yes,,,,SF Native,Riparian;wetland,Sand;Loam,Moderate,,Sidewalk;Garden,
+No,"Blue Wheatgrass, Magellan Wheatgrass",Grass,Partial Sun,30,90,Spring;Summer,Yes,Yes,,,Blue,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,wood spurge,Perennial,Partial Shade,30,90,Spring;Summer,Yes,Yes,,,Yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Calamint,Perennial,Partial Sun,30,90,Summer,,Yes,,,,Exotic,,Clay;Loam;Sand;Rock,None,Pollinator,Garden,
+No,"Blue Mist, Blue Beard",Perennial,Full Sun,30,90,Summer,,Yes,,,Blue,Exotic,,Clay;Loam;Sand;Rock,None,Pollinator,Garden,
+No,Skyflower,Perennial,Partial Sun,30,90,Summer,,Yes,,,purple;white;blue,Exotic,,Loam;Sand;Clay,Low,Pollinator,Garden,
+No,Paddle Plant,Succulent,Partial Sun,30,90,Spring;Winter,Yes,,,Yes,Yellow,Exotic,,Sand;Loam,None,,Sidewalk;Garden,
+No,Purple Coneflower,Perennial,Partial Sun,30,90,Summer,,Yes,,,pink;purple,Exotic,,Loam;Sand;Clay,None,Pollinator,Garden,
+No,Lenten Rose,Perennial,Partial Sun,30,90,Spring,Yes,,,,White;pink,Exotic,,Clay;Loam;Sand;Rock,Low;Moderate,,Sidewalk;Garden,
+No,California bluebell,Annual,Full Sun,30,90,Spring,Yes,,,,Indigo,CA Native,,Loam;Sand,None,Pollinator,Garden,
+No,Island Alum Root,Perennial,Partial Shade,30,90,Spring;Summer,Yes,Yes,,,White,CA Native,coastal scrub;chaparral,Sand;Loam,Low,Pollinator,Sidewalk;Roof,
+No,Coral Bell hybrids,Perennial,Partial Shade,30,90,Spring;Summer,Yes,Yes,,,Pink,CA Native,,Clay;Loam;Sand;Rock,None,Pollinator,Sidewalk;Garden,
+No,Coral Bells,Perennial,Partial Shade,30,90,Summer,,Yes,,,Red;Oink,Exotic,,Rock,Low,Pollinator,Sidewalk;Garden,
+No,Spanish squill,Perennial,Partial Sun,30,90,Spring,Yes,,,,Purple,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Hollyhock,Perennial,Full Sun,200,400,Summer,,Yes,,,Orange;Pink;Purple;Red;White;Yellow,Other,,Loam;Sand,Low,Buds/greens;Pollinator,Garden,Attracts West Coast Painted Lady (Vanessa annabella) butterfly.
+No,Coyotebrush,Shrub (evergreen),Partial Sun,200,400,Fall,,,Yes,,White,SF Native,Coastal scrub;Dunes,Clay;Loam;Sand;Rock,None,Cover;Buds/greens;Pollinator;Nesting,Sidewalk;Garden,"Amazing for wildlife. Attracts Western fence lizard, Nutall's White-crowned Sparrow, Gray Hairstreak (Strymon melinus), and Common Buckeye (Junonia coeni)."
+No,Spice Bush,Shrub (evergreen),Partial Sun,200,400,Summer,,Yes,,,Burgundy,CA Native,Wetland;Woodland,Clay;Loam;Sand,Low,Buds/greens,Garden,
+No,California Thistle,Perennial,Partial Sun,200,400,Summer,,Yes,,,Indigo,CA Native,Coastal scrub;Dunes;Grassland/prairie;Woodland,Clay;Loam;Sand;Rock,None,Buds/greens;Pollinator,Garden;Roof,"Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies."
+No,Snowy Thistle,Perennial,Partial Sun,200,400,Summer,,Yes,,,Magenta,CA Native,Coastal scrub;Dunes;Grassland/prairie;Woodland,Clay;Loam;Sand;Rock,None,Buds/greens;Pollinator,Garden,"Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies."
+No,California Dogwood,Shrub (deciduous),Partial Sun,200,400,Summer,,Yes,,,White,SF Native,Wetland;Riparian,Clay;Loam;Sand;Rock,Moderate,Buds/greens,Garden,Attracts Cedar Waxwing bird.
+No,California Hazelnut,Tree (deciduous),Partial Sun,200,400,Winter,,,,Yes,Red,SF Native,Coastal scrub;Woodland;Riparian,Clay;Loam;Sand,Low,Fruit,Garden,
+No,Southern Cattail,Perennial,Full Sun,200,400,Spring;Summer,Yes,Yes,,,Brown,SF Native,Riparian;Wetland,Clay;Loam;Sand,Moderate,Cover;Nesting,Garden,"Wet grower, fresh water, travels and can be a maintenance problem very easily. Attracts Red-Wing Black bird."
+No,Broadleaf Cattail,Perennial,Full Sun,200,400,Spring,Yes,,,,Brown;Yellow,SF Native,Riparian;Wetland,Clay;Loam;Sand,Moderate,Cover;Nesting,Garden,"Wet grower, fresh water, travels and can be a maintenance problem very easily."
+No,Huckleberry,Shrub (evergreen),Partial Sun,200,400,Spring;Winter,Yes,,,Yes,White,SF Native,Woodland;Coastal scrub,Clay,Low,Fruit;Pollinator;Nesting,Garden,
+No,White Escallonia,Perennial,Full Sun,200,400,Summer,,Yes,,,White,Exotic,,Loam,Low,Pollinator,Garden,
+No,Coffeeberry,Shrub (evergreen),Partial Sun,200,400,Summer,,Yes,,,Burgundy,SF Native,Coastal scrub;Woodland,Clay;Loam;Sand;Rock,None,Cover;Buds/greens;Fruit;Pollinator,Garden,Attracts Pale Tiger Swallowtail (Papilio eurymedon) and White-Crowned Sparrow.
+No,Cow Parsnip,Perennial,Partial Shade,200,400,Summer,,Yes,,,White,SF Native,Woodland;Coastal scrub;Wetland;Riparian,Loam;Sand,Low,,Garden,
+No,Toyon,Shrub (evergreen),Partial Sun,200,400,Summer,,Yes,,,White,SF Native,Chaparral;Coastal scrub;Woodland,Clay;Loam;Sand;Rock,None,Cover;Buds/greens;Fruit;Pollinator,Garden,"White flowers in summer, red berries in winter. Attracts Cedar Waxwing, Robins, and Purple Finches."
+No,Cream Bush,Shrub (deciduous),Partial Sun,200,400,Spring;Summer,Yes,Yes,,,White,SF Native,Woodland;Coastal scrub,Clay;Loam,Low,Buds/greens;Cover;Pollinator,Garden,"Attracts Spring Azure, Pale Swallowtail, and Lorquin’s Admiral butterflies."
+No,Twinberry Honeysuckle,Shrub (deciduous),Partial Sun,200,400,Summer,,Yes,,,Yellow,SF Native,Coastal scrub;Riparian;Wetland;Woodland,Loam;Clay,Low,Fruit;Pollinator;Cover,Garden,"Not wind tolerant, but grows in many habitats. Attracts Cedar Waxwing and Red Admiral."
+No,"Malva Rosa, Island Mallow",Shrub (evergreen),Partial Shade,200,400,Spring;Summer;Winter,Yes,Yes,,Yes,Pink,CA Native,Coastal scrub,Clay;Loam;Sand,Low,Buds/greens,Garden,Attracts Grey Hairstreak (Strymon melinus) and Painted Lady (Vanessa cardui) butterflies.
+No,Smoke Bush,Shrub (evergreen),Full Sun,200,400,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,Cover;Nesting,Garden,
+No,Hopseed Bush,Shrub (evergreen),Full Sun,200,400,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,Cover;Nesting,Garden,
+No,Pride of Madeira,Shrub (evergreen),Full Sun,200,400,Spring;Summer;Fall,Yes,Yes,Yes,,Purple,Exotic,,Sand;Loam,Low,Pollinator;Cover;Nesting,Garden,
+No,California Wild Rose,Shrub (deciduous),Partial Sun,200,400,Spring;Summer,Yes,Yes,,,Pink,SF Native,Coastal scrub;Chaparral;Grassland/prairie;Riparian;Wetland;Woodland,Clay;Loam;Sand,Low,Fruit;Pollinator,Garden;Roof,
+No,Mountain mahogany,Shrub (evergreen),Full Sun,200,400,Spring,Yes,,,,Yellow,CA Native,Chaparral;Woodland,Loam;Sand;Clay,None,Cover,Garden,
+No,Native mock orange,Shrub (deciduous),Partial Sun,200,400,Spring;Summer,Yes,Yes,,,White,CA Native,Woodland,Clay;Loam,Low,Cover;Pollinator,Garden,
+No,Pacific ninebark,Shrub (deciduous),Partial Sun,200,400,Spring;Summer,Yes,Yes,,,White,CA Native,Riparian;Woodland,Clay;Loam,Low,Cover,Garden,
+No,Fuchsia-flowered gooseberry,Shrub (evergreen),Partial Sun,200,400,Spring;Winter,Yes,,,Yes,Red,CA Native,Chaparral,Clay;Loam,None,Fruit;Cover;Pollinator,Garden,
+No,Rock rose cress,Perennial,Partial Shade,200,400,Spring,Yes,,,,Purple;Pink,SF Native,Coastal scrub,Clay;Loam,Low,Pollinator;Cover,Sidewalk;Roof,Does well in a rock garden
+No,Wild Pea,Vine,Partial Sun,200,400,Spring,Yes,,,,Magenta;Purple,SF Native,Chaparral;Woodland;Coastal scrub,Clay;Loam,Low,Pollinator,Garden;Sidewalk;Roof,Climbing
+No,California Honeysuckle,Vine,Partial Sun,200,400,Summer,,Yes,,,Pink,SF Native,Coastal scrub;Woodland;Riparian,Clay;Loam,Low,Fruit,Garden;Roof,Climbing
+No,buttonbush,Shrub (deciduous),Partial Sun,200,400,Fall,,,Yes,,White,CA Native,,Loam,Moderate,Pollinator;Cover;Nesting,Garden,
+No,water birch,Tree (deciduous),Full Sun,200,400,Spring,Yes,,,,,CA Native,Riparian;Wetland;Woodland,Clay;Loam,Moderate,Cover;Nesting,Garden,
+No,mule-fat,Shrub (evergreen),Full Sun,200,400,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,White,CA Native,,Clay;Loam;Sand,Low,Cover;Nesting,Garden,
+No,Yaupon,Shrub (evergreen),Partial Sun,200,400,Spring,Yes,,,,White,Exotic,,Clay;Sand;Loam,Low,Pollinator;Cover;Nesting,Garden,
+No,Tree Mallow,Shrub (evergreen),Full Sun,200,400,Spring;Summer;Fall,Yes,Yes,Yes,,Red,CA Native,Coastal scrub,Sand;Loam,None,Pollinator;Cover;Nesting,Garden,
+No,Honey Bush,Shrub (evergreen),Partial Shade,200,400,Spring;Winter,Yes,,,Yes,Magenta,Exotic,,Clay;Loam;Sand;Rock,Low,Cover;Nesting,Garden,
+No,Lemonade Berry,Shrub (evergreen),Full Sun,200,400,Spring,Yes,,,,White,CA Native,Coastal scrub;Dunes;Chaparral,Sand;Loam,None,Pollinator;Cover;Nesting,Garden,
+No,Chaste Tree,Shrub (evergreen),Full Sun,200,400,Spring;Summer,Yes,Yes,,,Purple,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator;Cover;Nesting,Garden,
+No,Coast Rosemary,Shrub (evergreen),Full Sun,200,400,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,White,Exotic,,Clay;Loam;Sand;Rock,Low,Cover;Nesting,Sidewalk;Garden,
+No,Ponytail palm,Perennial,Full Sun,200,400,Spring;Summer,Yes,Yes,,,White,Exotic,,Sand;Loam;Clay,None,Cover;Nesting,Garden,
+No,Puya,Perennial,Full Sun,200,400,,,,,,,Exotic,,Clay;Loam;Sand;Rock,None,Cover;Nesting,Garden,
+No,Matilija Poppy,Perennial,Full Sun,200,400,Spring;Summer,Yes,Yes,,,White,CA Native,,Sand;Loam,None,Cover;Nesting,Sidewalk;Garden,
+No,Clematis,Vine,Full Sun,200,400,,,,,,,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator;Cover;Nesting,Garden,
+No,Giant Wild Rye,Grass,Partial Sun,200,400,Summer,,Yes,,,White,SF Native,,Clay;Loam,None,Cover;Nesting,Garden;Roof,
+No,Red flowering currant,Shrub (evergreen),Partial Sun,200,400,,,,,,Purple;Pink;White;Yellow;Red,CA Native,,Clay;Loam;Sand;Rock,Low,Pollinator;Cover;Nesting,Garden,
+No,Lilac Vine,Vine,Partial Sun,200,400,Spring;Winter,Yes,,,Yes,Purple,Exotic,,Clay;Loam;Sand;Rock,Low,Cover;Nesting,Sidewalk;Garden,
+No,Western Service Berry,Shrub (deciduous),Partial Sun,12,200,Summer,,Yes,,,White,SF Native,Coastal Scrub,Clay;Loam;Rock,Low,Fruit;Pollinator,Garden,
+No,California Sagebrush,Shrub (evergreen),Partial Sun,12,200,Summer,,Yes,,,Yellow,SF Native,Coastal scrub,Clay;Loam;Sand;Rock,None,Cover;Nesting,Garden;Sidewalk;Roof,Resilient and good visual. Attracts Nutall's White-Crowned Sparrow (Zonotrichia leucophrys nuttalli).
+No,Dune Sagewort,Shrub (evergreen),Partial Sun,12,200,Summer,,Yes,,,Yellow,SF Native,Dunes,Clay;Loam;Sand;Rock,None,Cover;Nesting,Garden;Sidewalk;Roof,"Excellent visually, but limited to coastal sand dunes."
+No,Coast Barberry,Shrub (evergreen),Partial Shade,12,200,Spring,Yes,,,,Yellow,SF Native,Woodland;Coastal scrub,Clay,Low,Buds/greens;Pollinator,Garden,Attracts Cedar Waxwing (Bombycilla cedrorum) bird.
+No,Alkali Bulrush / Sturdy Bulrush,Perennial,Partial Sun,12,200,Summer,,Yes,,,Brown,SF Native,Riparian;Wetland,Clay;Loam;Sand,Moderate,Fruit;Nesting,Garden,
+No,California Brome,Grass,Full Sun,12,200,Winter,,,,Yes,Yellow,SF Native,Chaparral;Coastal scrub;Dunes;Grassland/prairie;Woodland,Clay;Loam;Sand;Rock,None,Cover;Fruit;Nesting,Garden,Attracts Umber Skipper butterfly.
+No,Woodland Brome,Grass,Shade,12,200,Summer,,Yes,,,Green,CA Native,Chaparral;Grassland/prairie;Woodland,Clay;Loam;Sand;Rock,None,Pollinator,Garden,Needs to be planted with other grasses.
+No,Pacific Reedgrass,Grass,Partial Sun,12,200,Spring,Yes,,,,Pink;White,SF Native,Wetland;Woodland,Clay,Low,Buds/greens,Sidewalk;Garden,"Needs fog and moisture, and tolerates wind well."
+No,Indian Thistle,Perennial,Partial Sun,12,200,Spring;Summer,Yes,Yes,,,Indigo,SF Native,Coastal scrub;Woodland,Clay;Loam;Rock,None,Buds/greens;Pollinator,Garden,"Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies."
+No,Compact Cobweb Thistle,Perennial,Partial Sun,12,200,Spring,Yes,,,,Magenta,SF Native,Coastal scrub;Dunes;Grassland/prairie;Woodland,Clay;Loam;Sand;Rock,None,Buds/greens;Pollinator,Garden;Roof,"Rare: CNPS 1B.2 . Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies."
+No,Davy's Clarkia,Annual,Partial Sun,12,200,Summer,,Yes,,,Pink,SF Native,Coastal scrub;Dunes;Grassland/prairie,Clay;Loam;Sand,Low,Pollinator,Garden,
+No,Woodland Clarkia,Annual,Partial Sun,12,200,Summer,,Yes,,,Pink,CA Native,Coastal scrub;Dunes;Grassland/prairie,Clay;Loam;Sand,Low,Pollinator,Garden;Roof,
+No,Chinese Houses,Annual,Partial Sun,12,200,Spring;Summer,Yes,Yes,,,Purple,SF Native,Chaparral;Grassland/prairie;Woodland,Clay;Loam;Sand,Low,Buds/greens,Garden,Rare plant. Attracts Checkerspot Butterfly.
+No,American Dogwood,Shrub (deciduous),Partial Sun,12,200,Spring;Summer,Yes,Yes,,,White,SF Native,Wetland;Riparian,Clay;Loam;Sand;Rock,Moderate,Buds/greens;Cover;Pollinator,Garden,Attracts Sprin Azure / Echo Blue (Celastrina ladon echo) butterfly.
+No,Western Goldenrod,Perennial,Partial Sun,12,200,Summer;Fall,,Yes,Yes,,Yellow,SF Native,Grassland/prairie;Riparian;Wetland,Clay;Loam;Sand,Low,Pollinator,Garden,
+No,Stinging Nettle,Perennial,Partial Sun,12,200,Spring;Summer,Yes,Yes,,,Green;White,SF Native,Riparian;Wetland,Clay;Loam;Sand,Moderate,Buds/greens,Garden,"Attracts Red Admiral (Vanessa atalanta), Satyr Anglewing (Polygonia satyrus), and West Coast Lady (Vanessa annabella)."
+No,Hoary Nettle,Perennial,Full Sun,12,200,Summer,,Yes,,,Yellow,SF Native,Riparian;Wetland,Clay;Loam;Sand,Low,Buds/greens,Garden,"Attracts Red Admiral (Vanessa atalanta), Satyr Anglewing (Polygonia satyrus), West Coast Lady (Vanessa annabella)."
+No,Purpletop Vervain,Annual,Partial Sun,12,200,Spring,Yes,,,,Purple,Exotic,Riparian,Loam,Low,Pollinator,Garden,Attracts Mournful Duskywing (Erynnis tristis).
+No,Beardless wild rye,Grass,Partial Sun,12,200,Summer,,Yes,,,Yellow,SF Native,Coastal scrub;Riparian;Woodland,Clay;Loam;Sand,Low,Fruit,Garden;Roof,Versatile flower that is a runner and good for binding.
+No,Bush Sunflower,Shrub (evergreen),Full Sun,12,200,Spring;Summer;Winter,Yes,Yes,,Yes,Yellow,CA Native,Chaparral,Clay,Low,Pollinator,Sidewalk;Garden,Sunflower-like flowers. Attracts Red-Winged Blackbird.
+No,Annual Fireweed,Annual,Partial Sun,12,200,Summer,,Yes,,,Pink,SF Native,Chaparral;Grassland/prairie;Woodland,Clay;Loam;Sand,None,Buds/greens;Fruit;Pollinator,Garden,Self-seeds. Attracts Lesser Goldfinches and Sphinx Moth.
+No,Flannel Bush,Shrub (evergreen),Partial Sun,12,200,Spring,Yes,,,,Yellow,CA Native,Chaparral;Woodland,Clay;Loam;Sand,None,Cover;Buds/greens;Pollinator,Garden,
+No,Island Bush Snapdragon,Perennial,Partial Sun,12,200,Spring,Yes,,,,Red,CA Native,Chaparral,Clay;Sand,None,Pollinator,Sidewalk;Garden,Intermittent bloom throughout the year.
+No,Big Sagebrush,Shrub (evergreen),Full Sun,12,200,Summer,,Yes,,,White,CA Native,,Sand;Loam,None,,Garden,
+No,Fairy Dustre,Shrub (evergreen),Full Sun,12,200,Spring;Winter,Yes,,,Yes,Pink,CA Native,,Sand;Loam,None,Pollinator,Garden,
+No,Slender Sunflower,Perennial,Full Sun,12,200,Spring;Summer,Yes,Yes,,,Yellow,CA Native,Chaparral,Clay;Loam,Low,Pollinator,Garden,Attracts Red-Winged Blackbird and Monarch Butterfly (Danaus plexippus).
+No,Silver Lupine,Perennial,Full Sun,12,200,Spring;Summer,Yes,Yes,,,Purple,CA Native,Chaparral;Coastal scrub;Woodland,Clay;Loam;Sand;Rock,None,Buds/greens;Pollinator,Garden;Sidewalk;Roof,Host to the endangered Mission Blue Butterfly.
+No,Yellow Bush Lupine,Shrub (evergreen),Partial Sun,12,200,Spring,Yes,,,,Yellow,SF Native,Coastal scrub;Grassland/prairie;Dunes,Clay;Loam;Sand;Rock,None,Pollinator,Garden,"Only plant in western sandy areas. Grows fast, then dies out fast. Lupines should be planted as plants – unpredictable germination."
+No,Silver Dune Lupine,Shrub (evergreen),Full Sun,12,200,Spring,Yes,,,,Indigo,SF Native,Dunes,Sand,None,Pollinator;Cover,Garden,
+No,Common loosestrife,Perennial,Partial Sun,12,200,Spring;Summer,Yes,Yes,,,Pink,CA Native,Wetland; Woodland,Loam,Low,Pollinator,Garden,
+No,Common Tarweed,Annual,Full Sun,12,200,Summer,,Yes,,,Yellow,SF Native,Chaparral;Coastal scrub;Grassland/prairie,Clay;Sand,None,Fruit;Pollinator,Garden,Attracts Western Meadowlark bird.
+No,Desert Spoon,succulent,Full Sun,12,200,Summer,,Yes,,,White,Exotic,,Clay;Loam;Sand;Rock,None,Pollinator,Garden,
+No,California Sagebrush,Shrub (evergreen),Full Sun,12,200,,,,,,,CA Native,,Clay;Loam;Sand;Rock,None,Pollinator,Garden,
+No,Hooker's Evening Primrose,Perennial,Full Sun,12,200,Summer,,Yes,,,Yellow,SF Native,Coastal scrub;Woodland;Dunes;Chaparral,Loam;Sand;Clay,None,Pollinator,Garden;Sidewalk;Roof,"Resilient, gets weedy, self sows. Attracts Western fence lizard and Goldfinch."
+No,Pink Flowering Currant,Shrub (deciduous),Partial Sun,12,200,Spring;Winter,Yes,,,Yes,Pink,SF Native,Woodland;Coastal scrub;Dunes,Clay;Loam;Sand;Rock,None,Fruit;Pollinator,Sidewalk;Garden,
+No,California Blackberry,Shrub (deciduous),Partial Sun,12,200,Spring;Winter,Yes,,,Yes,White,SF Native,Chaparral;Grassland/prairie;Riparian;Wetland;Woodland;Coastal scrub;Dunes,Clay;Loam;Sand,None,Fruit;Pollinator;Cover,Garden;Roof,With espalier can make attractive feature and good habitat. Attracts Nuttall's White-crowned Sparrow and Red Admiral (Vanessa atalanta).
+No,Western Dock,Perennial,Partial Sun,12,200,Spring;Summer,Yes,Yes,,,Burgundy,SF Native,Wetland,Clay;Loam;Sand,Moderate,,Garden,
+No,California White Sage,Shrub (evergreen),Full Sun,12,200,Spring;Summer,Yes,Yes,,,White,CA Native,Chaparral;Coastal scrub,Clay;Loam;Sand,None,Pollinator,Garden;Sidewalk;Roof,
+No,Cleveland Sage,Shrub (evergreen),Full Sun,12,200,Spring;Summer,Yes,Yes,,,Blue;Purple,CA Native,Chaparral,Clay;Sand,None,Pollinator;Cover,Garden;Sidewalk;Roof,Very fragrant.
+No,Coast Purple Sage,Shrub (evergreen),Full Sun,12,200,Spring,Yes,,,,Purple,CA Native,Coastal scrub;Chaparral,Clay;Loam;Sand;Rock,None,Pollinator;Cover,Garden;Sidewalk;Roof,
+No,Creeping Sage,Perennial,Full Sun,12,200,Spring;Summer,Yes,Yes,,,White;Purple,CA Native,Chaparral;Woodland,Clay;Sand,None,Cover;Pollinator,Garden;Sidewalk;Roof,Attracts Anna's Hummingbird.
+No,Tule,Perennial,Full Sun,12,200,Spring;Summer,Yes,Yes,,,Brown,CA Native,Wetland,Loam;Sand,Moderate,,Garden,
+No,California Bulrush,Perennial,Full Sun,12,200,Spring,Yes,,,,Brown,SF Native,Wetland,Loam;Sand,Moderate,,Garden,
+No,Common Threesquare,Perennial,Full Sun,12,200,Spring;Summer,Yes,Yes,,,Burgundy,SF Native,Wetland,Clay;Loam;Sand,Moderate,,Garden,
+No,Marsh Ragwort,Perennial,Partial Sun,12,200,Spring;Summer,Yes,Yes,,,Yellow,CA Native,Wetland;Woodland,Clay;Loam;Sand,Moderate,,Garden,
+No,Bush Anemone,Shrub (evergreen),Partial Sun,12,200,Summer,,Yes,,,White,CA Native,,Loam;Sand,Moderate,Pollinator;Cover,Sidewalk;Garden,CNPS Rare Plant; State listed as Threatened
+No,Switchgrass,Grass,Partial Shade,12,200,Summer;Fall;Winter,,Yes,Yes,Yes,,CA Native,,Clay;Loam;Sand,Moderate,,Garden,Seeds are good food source in winter
+No,Canyon gooseberry,Shrub (deciduous),Partial Sun,12,200,Spring;Winter,Yes,,,Yes,White,CA Native,Chaparral;Woodland,Clay;Loam,None,Cover;Pollinator,Garden,
+No,California Buckwheat;St. Catherine's Lace?,Shrub (evergreen),Full Sun,12,200,Spring;Summer,Yes,Yes,,,White;Red,CA Native,Chaparral;Coastal scrub,Clay;Loam;Sand,None,Pollinator,Sidewalk;Garden,
+No,Golden Currant,Shrub (deciduous),Partial Sun,12,200,Spring,Yes,,,,Yellow,CA Native,Riparian;Woodland,Clay;Loam;Sand,Low,Fruit;Pollinator,Sidewalk;Garden,
+No,Black sage,Shrub (evergreen),Partial Sun,12,200,Spring;Summer,Yes,Yes,,,White;Purple,CA Native,Coastal scrub;Chaparral,Clay;Sand,None,Fruit;Pollinator,Garden;Sidewalk;Roof,Groundcover;Good for erosion control
+No,Common Sunshine Conebush,Shrub (evergreen),Full Sun,12,200,Winter,,,,Yes,Red,Exotic,,Sand;Loam,None,,Sidewalk;Garden,
+No,Violet-flowered Lupine,Perennial,Full Sun,12,200,spring;summer,Yes,Yes,,,Purple,CA Native,,Clay;Loam;Sand;Rock,None,Pollinator,Sidewalk;Garden,
+No,Lindheimer's muhly grass,Grass,Partial Sun,12,200,Fall;Winter,,,Yes,Yes,Gray,Exotic,,Clay,None,,Sidewalk;Garden,
+No,Common Myrtle,Shrub (evergreen),Partial Sun,12,200,Spring;Summer,Yes,Yes,,,White,Exotic,,Sand;Loam,None,Pollinator;Fruit,Sidewalk;Garden,
+No,Fairy Wax Flower,Shrub (evergreen),Partial Sun,12,200,Spring;Winter,Yes,,,Yes,Pink,Exotic,,Clay;Loam;Sand;Rock,None,,Sidewalk;Garden,
+No,California coneflower,Perennial,Partial Sun,12,200,Summer;Fall,,Yes,Yes,,Yellow,CA Native,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,"Mexican Bush Sage, Velvet Sage",Shrub (evergreen),Full Sun,12,200,Summer;Fall,,Yes,Yes,,White;Purple,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Munz's sage,Perennial,Full Sun,12,200,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Purple,CA Native,,Sand;Loam,None,Pollinator,Garden,
+No,Desert Willow,Perennial,Full Sun,12,200,Spring,Yes,,,,White;pink,CA Native,,Sand;Loam,Low,Pollinator,Garden,
+No,Prairie bulrush,Grass,Full Sun,12,200,Fall,,,Yes,,,SF Native,Riparian;Wetland,Clay;Loam;Sand,Moderate,,Garden,
+No,California larkspur,Perennial,Full Sun,12,200,Spring;Summer,Yes,Yes,,,White,SF Native,Woodland,Clay;Loam;Sand,None,,Garden,
+No,rockrose,Shrub (evergreen),Partial Sun,12,200,Spring;Summer,Yes,Yes,,,white;pink;purple,Exotic,,Loam;Sand,Low,Pollinator,Garden,
+No,slough sedge,Perennial,Partial Sun,12,200,Spring,Yes,,,,,SF Native,Grassland/prairie;Wetland;Riparian,Clay;Loam,Moderate,,Garden,
+No,Japanese barberry,Shrub (deciduous),Partial Sun,12,200,Spring,Yes,,,,Yellow,Exotic,,Loam;Sand,Low,Fruit,Garden,
+No,barberry;Mountain grape,Shrub (evergreen),Partial Sun,12,200,Spring;Winter,Yes,,,Yes,Yellow,CA Native,Woodland,Loam;Sand,Low,Fruit,Garden,
+No,Trailing Lantana,Shrub (evergreen),Full Sun,12,200,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Purple,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Sidewalk;Garden,
+No,Creosote Bush,Shrub (evergreen),Full Sun,12,200,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Yellow,CA Native,,Many,None,,Garden,
+No,Texas Ranger,Shrub (evergreen),Full Sun,12,200,Summer;Fall,,Yes,Yes,,Purple,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Sidewalk;Garden,
+No,Pincushion Plant,Shrub (evergreen),Full Sun,12,200,Spring;Winter,Yes,,,Yes,Red;Orange;Pink,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,Heavenly Bamboo,Shrub (evergreen),Partial Shade,12,200,Spring;Summer,Yes,Yes,,,Pink;White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Dwarf Pomegranate,Shrub (evergreen),Full Sun,12,200,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Orange;Red,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,Indian Hawthorne,Shrub (evergreen),Full Sun,12,200,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,chaparral currant,Shrub (evergreen),Partial Sun,12,200,Spring;Winter,Yes,,,Yes,Pink,SF Native,Chaparral;Woodland,Sand;Loam,None,Pollinator,Garden,
+No,Sweet Sarcococca,Shrub (evergreen),Partial Shade,12,200,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Bush Germander,Shrub (evergreen),Full Sun,12,200,Summer;Fall,,Yes,Yes,,Indigo,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Sidewalk;Garden,
+No,Woolly Blue Curls,Shrub (evergreen),Full Sun,12,200,Spring;Summer,Yes,Yes,,,Indigo,CA Native,Chaparral,Sand;Loam,None,Pollinator,Garden,
+No,Mexican Lobelia,Perennial,Partial Sun,12,200,Summer,,Yes,,,red;yellow,Exotic,,Sand;Loam;Clay,Low,Pollinator,Sidewalk;Garden,
+No,New Zealand Flax,Perennial,Full Sun,12,200,Spring,Yes,,,,orange;red,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,Salvia,Perennial,Full Sun,12,200,,,,,,,Exotic,,Clay;Loam;Sand;Rock,None,Pollinator,Garden,
+No,Rhodocoma,Grass,Partial Sun,12,200,Fall;Winter,,,Yes,Yes,,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden,
+No,California Buckwheat,Perennial,Full Sun,12,200,,,,,,White;Pink;Purple;Yellow,CA Native,,Clay;Loam;Sand;Rock,None,Pollinator,Sidewalk;Garden,
+No,Electric Pink Grass Tree,Perennial,Full Sun,12,200,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Copper Spoons,Succulent,Partial Sun,12,200,Winter,,,,Yes,Yellow,Exotic,,Sand;Loam,None,,Sidewalk;Garden,
+No,Western Columbine,Perennial,Partial Sun,30,30,Spring,Yes,,,,Red;Yellow,SF Native,Coastal scrub;Woodland;Riparian,Clay;Loam;Rock,Low,Buds/greens;Pollinator,Garden;Roof,Attracts Anna's Hummingbird.
+No,Wild Ginger,Perennial,Partial Shade,30,30,Spring,Yes,,,,Burgundy,CA Native,Woodland,Clay;Loam,Moderate,Cover,Sidewalk;Garden,
+No,Pacific Dune Sedge,Perennial,Full Sun,30,30,Spring,Yes,,,,Brown,CA Native,Dunes,Sand,Moderate,,Garden;Roof,"Practical plant that is a dry grower and needs sand dunes. Can form a tight, tough mat."
+No,Salt Marsh Owl’s-clover,Annual,Full Sun,30,30,Summer,,Yes,,,White;Yellow,SF Native,Riparian;Wetland,Clay;Loam;Sand,Moderate,Buds/greens;Pollinator,Garden,"Hemiparasitic (Need root system of other plants for moisture and minerals) - favor composite family such as artemisia, sagebrush, coyotebush, pearly everlasting). Attracts Chalcedon Checkerspot (Euphydryas chalcedona) butterfly."
+No,Monterey Indian Paintbrush,Perennial,Full Sun,30,30,Spring;Summer,Yes,Yes,,,Orange;Red,SF Native,Coastal scrub;Grassland/prairie;Dunes,Clay;Loam;Sand,Low,Buds/greens;Pollinator,Garden;Roof,"Hemiparasitic (Need root system of other plants for moisture and minerals) - favor composite family such as artemisia, sagebrush, coyotebush, pearly everlasting). Attracts Chalcedon Checkerspot (Euphydryas chalcedona) butterfly."
+No,Miner's Lettuce,Annual,Partial Shade,30,30,Spring;Winter,Yes,,,Yes,Pink;White,SF Native,Chaparral;Coastal scrub;Woodland,Clay;Loam;Sand,Low,Buds/greens;Cover;Fruit;Pollinator,Garden,Prolific plant. Attracts Mourning Doves and California Quail.
+No,Winecup Clarkia,Annual,Partial Sun,30,30,Spring;Summer,Yes,Yes,,,Pink,SF Native,Coastal scrub;Dunes;Grassland/prairie,Clay;Loam;Sand,Low,Pollinator,Garden,
+No,Yerba Buena,Perennial,Partial Shade,30,30,Summer,,Yes,,,White,SF Native,Coastal scrub;Woodland,Clay;Loam;Sand;Rock,Low,Cover,Garden;Roof,Temperamental and may not persist. Fragrant foliage.
+No,Alkali Weed,Perennial,Partial Sun,30,30,Summer,,Yes,,,White,CA Native,Chaparral;Wetland,Loam;Sand,Low,,Garden,
+No,Cow Clover,Perennial,Partial Sun,30,30,Spring,Yes,,,,Pink,SF Native,Chaparral;Grassland/prairie;Riparian;Wetland;Woodland,Clay;Loam;Sand,Moderate,,Garden,Wet grower.
+No,Western modesty,Vine,Partial Shade,30,30,Spring,Yes,,,,White,CA Native,,Sand;Loam,Low,Pollinator,Sidewalk;Garden,
+No,Tufted Hairgrass,Grass,Partial Sun,30,30,Summer,,Yes,,,Brown;Green,SF Native,Coastal scrub;Grassland/prairie;Wetland;Woodland,Clay;Loam,Low,Fruit,Garden,Not drought tolerant.
+No,Chalk Dudleya,Succulent,Full Sun,30,30,Spring,Yes,,,,Green,CA Native,Chaparral,Clay,Low,,Garden;Roof,Good for containers / medians. Chalky foliage.
+No,"Sea Lettuce, Coast Dudleya",Succulent,Partial Sun,30,30,Summer,,Yes,,,Yellow,CA Native,Grassland/prairie,Clay,Low,Pollinator,Garden;Roof,
+No,Live Forever,Succulent,Partial Sun,30,30,Spring,Yes,,,,Yellow,SF Native,Grassland/prairie;Coastal scrub;Dunes,Rock;Sand,None,Pollinator,Garden;Roof,Produces green or glaucus form. Plant next to concrete to wick moisture. Chalky white and red foliage.
+No,Dwarf Spikerush,Grass,Partial Sun,30,30,Summer,,Yes,,,Brown;Green,CA Native,Wetland,Clay;Loam;Sand;Rock,Moderate,,Garden,CNPS Rare Plant
+No,Idaho Fescue,Grass,Partial Sun,30,30,Summer,,Yes,,,Yellow,SF Native,Chaparral;Grassland/prairie;Woodland,Clay;Loam;Sand;Rock,None,Buds/greens;Pollinator,Garden;Sidewalk;Roof,
+No,Red Fescue,Grass,Partial Sun,30,30,Spring,Yes,,,,Yellow,SF Native,Chaparral;Grassland/prairie;Wetland;Woodland;Dunes,Clay;Loam;Sand,None,Cover;Fruit,Garden;Sidewalk;Roof,
+No,Coast Strawberry,Perennial,Partial Sun,30,30,Winter,,,,Yes,White,SF Native,Dunes;Coastal scrub;,Clay;Loam;Sand;Rock,None,Cover;Fruit,Garden;Sidewalk;Roof,Endures wind well. Attracts Green Hairstreak (Callophrys viridis) butterfly.
+No,Woodland Strawberry,Perennial,Partial Shade,30,30,Spring;Winter,Yes,,,Yes,White,SF Native,Woodland;Coastal scrub,Clay;Loam,Low,Cover;Fruit,Garden;Sidewalk;Roof,
+No,Bird's Eye Gilia,Annual,Partial Sun,30,30,Summer,,Yes,,,Purple,CA Native,Grassland/prairie;Woodland,Clay;Loam,Low,Pollinator,Garden,
+No,Coastal Gumplant,Perennial,Partial Sun,30,30,Spring;Summer;Fall,Yes,Yes,Yes,,Yellow,SF Native,Dunes;Wetland,Clay;Loam;Sand,Low,Pollinator;Nesting,Garden;Roof,
+No,Wild Heliotrope,Perennial,Partial Sun,30,30,Spring,Yes,,,,White,SF Native,Wetland,Loam;Sand,Low,Pollinator,Garden,
+No,"Dittany of Crete, Hop Marjoram",Perennial,Full Sun,30,30,Summer,,Yes,,,Pink,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Poverty-weed,Perennial,Partial Sun,30,30,Spring;Summer,Yes,Yes,,,Yellow,SF Native,Wetland,Clay;Loam,Moderate,,Garden,Desert plant.
+No,Toad Rush,Annual,Partial Sun,30,30,Spring,Yes,,,,Green,SF Native,Wetland,Clay;Loam;Sand,Moderate,Cover;Fruit,Garden,Seedheads.
+No,California Goldfields,Annual,Full Sun,30,30,Spring;Winter,Yes,,,Yes,Yellow,SF Native,Coastal scrub;Grassland/prairie,Clay;Loam;Rock,Low,Fruit;Pollinator,Garden;Roof,
+No,Cat Mint,Perennial,Full Sun,30,30,Summer,,Yes,,,Purple,Exotic,,Clay;Loam;Sand,Low,Pollinator,Sidewalk;Garden,
+No,Coastal Plantain,Annual,Partial Sun,30,30,Spring,Yes,,,,Green,SF Native,Riparian;Wetland,Clay;Loam,Moderate,Buds/greens,Garden,Attracts Common Buckeye (Junonia coenia) butterfly.
+No,Seaside plantain,Perennial,Partial Sun,30,30,Spring;Summer,Yes,Yes,,,Brown,SF Native,Coastal scrub;Wetland;Dunes,Clay;Loam;Sand,Low,Buds/greens,Garden,Succulent that grows on cliff faces and likes salt wind. Attracts Common Buckeye (Junonia coenia) butterfly.
+No,Beach/Dune Knotweed,Perennial,Full Sun,30,30,Spring;Summer,Yes,Yes,,,White,SF Native,Dunes,Sand,None,Cover,Sidewalk;Garden,
+No,Silverweed,Perennial,Partial Sun,30,30,Spring,Yes,,,,Yellow,SF Native,Riparian;Wetland,Clay;Loam;Sand,Moderate,Cover;Pollinator,Garden,
+No,Self Heal,Perennial,Partial Shade,30,30,Summer,,Yes,,,Purple,SF Native,Riparian;Wetland,Clay;Loam,Moderate,Cover;Pollinator,Garden;Roof,
+No,Broadleaf Stonecrop,Succulent,Partial Sun,30,30,Spring;Summer,Yes,Yes,,,Yellow,SF Native,Coastal scrub;Woodland;Chaparral,Clay;Loam,Low,Buds/greens;Cover,Garden;Roof,Needs water in winter / spring.
+No,Pacific bleeding heart,Perennial,Partial Shade,30,30,Spring,Yes,,,,Pink,CA Native,Riparian;Woodland,Clay;Loam,Moderate,Pollinator,Garden,Good ground cover
+No,Yellow-eyed grass,Perennial,Partial Sun,30,30,Spring;Summer,Yes,Yes,,,Yellow,SF Native,Riparian;Wetland,Clay;Loam,Moderate,Pollinator,Garden,prefers moist conditions
+No,Large-flower linanthus,Annual,Full Sun,30,30,Spring,Yes,,,,Pink;White,SF Native,Coastal scrub;Grassland/prairie,Clay;Sand,None,,Sidewalk;Garden;Roof,CNPS Rare Plant
+No,Trailing mallow,Shrub (evergreen),Full Sun,30,30,Summer;Fall,,Yes,Yes,,Pink,Exotic,,Clay;Loam,None,,Sidewalk;Garden,
+No,Myoporum,Shrub (evergreen),Partial Sun,30,30,summer,,Yes,,,White,Exotic,,Sand;Loam,None,,Sidewalk;Garden,
+No,Geranium,Perennial,Partial Sun,30,30,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Magenta,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Dwarf Variegated New Zealand Flax,Perennial,Partial Sun,30,30,Spring;Summer,Yes,Yes,,,Yellow,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Turkey Tangle Fogfruit,Perennial,Full Sun,30,30,Spring;Summer;Fall,Yes,Yes,Yes,,Purple;Pink,CA Native,Wetland;Riparian,Sand;Loam,Low,Pollinator,Sidewalk;Garden,
+No,Prarie Plantain,Annual,Full Sun,30,30,Spring,Yes,,,,White,SF Native,Coastal scrub;Woodland;Chaparral;Dunes,Clay;Sand,None,Pollinator,Garden;Sidewalk;Roof,
+No,Shrubby Cinquefoil,Shrub (evergreen),Partial Sun,30,30,Summer;Fall,,Yes,Yes,,Yellow,CA Native,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Bramble,Shrub (evergreen),Partial Sun,30,30,Summer,,Yes,,,White,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,Peruvian Scilla,Perennial,Partial Sun,30,30,Spring,Yes,,,,Purple;blue,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Hens and Chicks,Succulent,Partial Sun,30,30,Spring;Winter,Yes,,,Yes,Yellow,Exotic,,Sand;Loam,None,,Roof;Sidewalk;Garden,
+No,Pork and Beans,Succulent,Partial Shade,30,30,Spring;Winter,Yes,,,Yes,Yellow,Exotic,,Sand;Loam,None,,Garden;Sidewalk;Roof,
+No,Houseleek,Succulent,Partial Sun,30,30,Summer,,Yes,,,Magenta,Exotic,,Sand;Loam,None,,Sidewalk;Garden,
+No,Creeping Thyme,Perennial,Partial Sun,30,30,Summer,,Yes,,,Pink,Exotic,,Sand;Loam,None,Pollinator;Cover,Sidewalk;Garden,
+No,White Clover,Perennial,Partial Sun,30,30,Summer,,Yes,,,White,Exotic,,Sand;Loam,None,Pollinator,Sidewalk;Garden,
+No,blue grama,Grass,Full Sun,30,30,Summer,,Yes,,,,CA Native,,Clay;Loam;Sand,None,,Garden,
+No,Lake Merced brittleleaf manzanita,Shrub (evergreen),Partial Sun,30,30,Spring;Winter,Yes,,,Yes,White,CA Native,Chaparral,Loam,Low,,Garden,
+No,Italian Arum,Perennial,Partial Shade,30,30,Spring;Summer,Yes,Yes,,,White,Exotic,,Sand;Loam,None,,Garden,
+No,Dymondia,Perennial,Partial Sun,30,30,Summer,,Yes,,,Yellow,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Hens and Chicks,succulent,Partial Sun,30,30,Spring;summer,Yes,Yes,,,Pink,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Ghost Plant,succulent,Partial Sun,30,30,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,None,,Garden,
+No,Silver yarrow,Perennial,Full Sun,30,30,Summer;Fall,,Yes,Yes,,White,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Sidewalk;Garden,
+No,Green pinwheel,Succulent,Partial Sun,30,30,Summer,,Yes,,,Pink,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Johnson's hybrid',Succulent,Partial Sun,30,30,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Orange,Exotic,,Loam;sand,Low,,Sidewalk;Garden,
+No,Japanese Anemon,Perennial,Partial Sun,30,30,Summer;Fall,,Yes,Yes,,Pink,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Sidewalk;Garden,
+No,Radiant Bearberry,Shrub (evergreen),Partial Sun,30,30,Spring;Winter,Yes,,,Yes,Pink,CA Native,,Many,None,Pollinator,Sidewalk;Garden,
+No,Buffalo Grass,Perennial,Full Sun,30,30,Spring,Yes,,,,Brown,Exotic,,Clay;Loam,Low,,Sidewalk;Garden,
+No,Catlin sedge,Shrub (evergreen),Partial Shade,30,30,Summer,,Yes,,,Green,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Bearberry Cotoneaster,Shrub (evergreen),Partial Sun,30,30,Spring,Yes,,,,White,Exotic,,Clay;Loam;Sand;Rock,Low,Pollinator,Sidewalk;Garden,
+No,Jade Plant,Succulent,Partial Sun,30,30,Spring;Winter,Yes,,,Yes,White,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Cape Province Pygmyweed,Succulent,Partial Sun,30,30,Winter,,,,Yes,Pink;White,Exotic,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Persian Violet,Perennial,Partial Sun,30,30,Summer;Fall,,Yes,Yes,,Pink,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Rosea Ice Plant,Perennial,Full Sun,30,30,Spring;Summer,Yes,Yes,,,Pink,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Wax Agave,Succulent,Partial Sun,30,30,Spring;Summer,Yes,Yes,,,Yellow;red,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden;Sidewalk;Roof,
+No,Echeveria,Succulent,Partial Sun,30,30,Spring;Summer;Fall;Winter,Yes,Yes,Yes,Yes,Orange,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Hens and Chicks,Succulent,Partial Sun,30,30,Spring;Summer,Yes,Yes,,,red;yellow,Exotic,,Clay;Loam;Sand;Rock,Low,,Garden;Sidewalk;Roof,
+No,Juareze Hens and Chicks,Succulent,Partial Sun,30,30,summer,,Yes,,,Pink,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
+No,Humboldt County Fuchsia,Perennial,Partial Sun,30,30,Summer,,Yes,,,Red,CA Native,,Sand;Loam,Low,,Sidewalk;Garden,
+No,Red buckwheat,Perennial,Full Sun,30,30,Summer;Fall,,Yes,Yes,,Pink,CA Native,,Sand;Loam;Clay,None,Pollinator,Sidewalk;Garden,
+No,Apricot Sunrose,Shrub (evergreen),Full Sun,30,30,Spring,Yes,,,,Orange,Exotic,,Clay;Loam;Sand;Rock,Low,,Sidewalk;Garden,
